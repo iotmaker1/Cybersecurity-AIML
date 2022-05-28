@@ -20,7 +20,10 @@ In the example project that was carried out as part of IA645 Machine Learning fo
 Four distinct attack patterns were used from the sample files from the [logpai loghub repository](https://github.com/logpai/loghub) repository.
 
 Brute Force Attacks
+
 FTP Brute force and Denial of Service
+
 NFS Buffer flow through RPC
+
 Clearning of system logs
 
