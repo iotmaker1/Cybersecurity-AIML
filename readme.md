@@ -16,4 +16,11 @@ As the machine learning picks up these patterns it can predict a possibility of 
 In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project. Team - Aaron Liske, William Smith III, Mia Jones, Yogesh Chavarkar under guidance or professor Dr Omar Darwish. The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
 
 
+<strong> Details </strong>
+Four distinct attack patterns were used from the sample files from the [logpai loghub repository](https://github.com/logpai/loghub) repository.
+
+Brute Force Attacks
+FTP Brute force and Denial of Service
+NFS Buffer flow through RPC
+Clearning of system logs
 
