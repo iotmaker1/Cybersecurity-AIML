@@ -5,4 +5,4 @@
 ### Machine learning for linux syslog 
 
 #### Use case
-Linux Syslog machine learning using Weka
+<strong> Linux Syslog machine learning using Weka </strong>
