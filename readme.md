@@ -17,6 +17,7 @@ In the example project that was carried out as part of IA645 Machine Learning fo
 
 
 <strong> Details </strong>
+
 Four distinct attack patterns were used from the sample files from the [logpai loghub repository](https://github.com/logpai/loghub) repository.
 
 - Brute Force Attacks
@@ -24,3 +25,11 @@ Four distinct attack patterns were used from the sample files from the [logpai l
 - NFS Buffer flow through RPC
 - Clearning of system logs
 
+Event patterns were grouped based on time, users and service to classify the attacks. Preview of the data was perfromed in Azure log analytics. Custom tables were used to ingest syslog text rawlog data from a linux VM.  Custom field extractions were used to extract fields from text files into 4 parts to analyze data.
+
+- Time
+- host
+- service
+- message
+
+Data was extracted in the attached sample.csv file for review by professor and get approval to procced with other tools and steps.
