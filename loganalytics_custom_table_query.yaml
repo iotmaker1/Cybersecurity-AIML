@@ -1,0 +1,22 @@
+name: Azure Log Analytics Custom Table Query
+description: |
+  'This query analyzes data in fields and creates a result field.'
+tactics:
+  - Reconnaissance
+  - Initial Access
+  - Discovery
+  - CredentialAccess
+  - DefenseEvasion
+relevantTechniques:
+  - T1578
+tags:
+  - logapi loghub
+query: | 
+  linuxlogs_CL 
+|  extend result_CF = case(
+   message_CF contains "Session","Access",
+   message_CF contains "mount Wrapper","Process",
+   message_CF contains "User Slice","session refresh",
+   "Unknown or blank"
+)
+| project time_CF, host_CF, service_CF, message_CF, result_CF
