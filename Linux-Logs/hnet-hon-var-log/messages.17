@@ -1,0 +1,715 @@
+Sep 25 04:11:43 combo syslogd 1.4.1: restart.
+Sep 25 04:11:43 combo logrotate: ALERT exited abnormally with [1]
+Sep 25 04:19:21 combo su(pam_unix)[19138]: session opened for user news by (uid=0)
+Sep 25 04:19:22 combo su(pam_unix)[19138]: session closed for user news
+Sep 25 14:06:07 combo sshd(pam_unix)[23166]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:07 combo sshd(pam_unix)[23172]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:07 combo sshd(pam_unix)[23173]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:07 combo sshd(pam_unix)[23168]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:07 combo sshd(pam_unix)[23167]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:10 combo sshd(pam_unix)[23176]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:10 combo sshd(pam_unix)[23178]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:13 combo sshd(pam_unix)[23180]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:13 combo sshd(pam_unix)[23184]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:14 combo sshd(pam_unix)[23182]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:20 combo sshd(pam_unix)[23186]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:21 combo sshd(pam_unix)[23189]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:21 combo sshd(pam_unix)[23190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:21 combo sshd(pam_unix)[23191]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:21 combo sshd(pam_unix)[23187]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:24 combo sshd(pam_unix)[23196]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:25 combo sshd(pam_unix)[23197]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:27 combo sshd(pam_unix)[23200]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:27 combo sshd(pam_unix)[23204]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:28 combo sshd(pam_unix)[23202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:33 combo sshd(pam_unix)[23206]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:34 combo sshd(pam_unix)[23208]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:34 combo sshd(pam_unix)[23209]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:38 combo sshd(pam_unix)[23212]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:41 combo sshd(pam_unix)[23214]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:43 combo sshd(pam_unix)[23218]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:43 combo sshd(pam_unix)[23217]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:44 combo sshd(pam_unix)[23216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:46 combo sshd(pam_unix)[23222]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:47 combo sshd(pam_unix)[23224]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:06:49 combo sshd(pam_unix)[23225]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:00 combo sshd(pam_unix)[23228]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:02 combo sshd(pam_unix)[23230]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:02 combo sshd(pam_unix)[23232]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:13 combo sshd(pam_unix)[23234]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:16 combo sshd(pam_unix)[23236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:16 combo sshd(pam_unix)[23237]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:28 combo sshd(pam_unix)[23240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:29 combo sshd(pam_unix)[23242]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:30 combo sshd(pam_unix)[23243]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:47 combo sshd(pam_unix)[23246]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:07:47 combo sshd(pam_unix)[23248]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:42 combo sshd(pam_unix)[23261]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:44 combo sshd(pam_unix)[23263]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:48 combo sshd(pam_unix)[23265]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:49 combo sshd(pam_unix)[23267]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:51 combo sshd(pam_unix)[23269]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:52 combo sshd(pam_unix)[23271]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:54 combo sshd(pam_unix)[23273]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:56 combo sshd(pam_unix)[23278]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:56 combo sshd(pam_unix)[23277]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:57 combo sshd(pam_unix)[23281]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:15:59 combo sshd(pam_unix)[23283]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:02 combo sshd(pam_unix)[23285]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:02 combo sshd(pam_unix)[23274]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:06 combo sshd(pam_unix)[23287]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:08 combo sshd(pam_unix)[23289]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:10 combo sshd(pam_unix)[23291]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:11 combo sshd(pam_unix)[23295]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:12 combo sshd(pam_unix)[23297]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:14 combo sshd(pam_unix)[23293]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:19 combo sshd(pam_unix)[23299]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:20 combo sshd(pam_unix)[23301]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:21 combo sshd(pam_unix)[23303]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:23 combo sshd(pam_unix)[23305]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:24 combo sshd(pam_unix)[23307]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:26 combo sshd(pam_unix)[23309]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:35 combo sshd(pam_unix)[23311]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:35 combo sshd(pam_unix)[23313]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:38 combo sshd(pam_unix)[23316]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:38 combo sshd(pam_unix)[23315]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:39 combo sshd(pam_unix)[23319]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:48 combo sshd(pam_unix)[23321]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:51 combo sshd(pam_unix)[23323]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:52 combo sshd(pam_unix)[23324]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:52 combo sshd(pam_unix)[23328]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:16:53 combo sshd(pam_unix)[23327]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:05 combo sshd(pam_unix)[23331]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:05 combo sshd(pam_unix)[23334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:06 combo sshd(pam_unix)[23332]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:07 combo sshd(pam_unix)[23337]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:19 combo sshd(pam_unix)[23339]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:21 combo sshd(pam_unix)[23341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:22 combo sshd(pam_unix)[23343]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 25 14:17:32 combo sshd(pam_unix)[23345]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=219.150.28.34  user=root
+Sep 26 04:03:16 combo su(pam_unix)[24903]: session opened for user cyrus by (uid=0)
+Sep 26 04:03:17 combo su(pam_unix)[24903]: session closed for user cyrus
+Sep 26 04:03:18 combo logrotate: ALERT exited abnormally with [1]
+Sep 26 04:14:15 combo su(pam_unix)[26137]: session opened for user news by (uid=0)
+Sep 26 04:14:16 combo su(pam_unix)[26137]: session closed for user news
+Sep 26 07:41:56 combo sshd(pam_unix)[26487]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26486]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26496]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26499]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26498]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26489]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 26 07:41:56 combo sshd(pam_unix)[26497]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=83-103-43-98.ip.fastwebnet.it  user=root
+Sep 27 04:19:18 combo su(pam_unix)[28838]: session opened for user cyrus by (uid=0)
+Sep 27 04:19:19 combo su(pam_unix)[28838]: session closed for user cyrus
+Sep 27 04:19:20 combo logrotate: ALERT exited abnormally with [1]
+Sep 27 04:26:02 combo su(pam_unix)[29215]: session opened for user news by (uid=0)
+Sep 27 04:26:03 combo su(pam_unix)[29215]: session closed for user news
+Sep 27 04:58:24 combo ftpd[29300]: connection from 68.206.240.214 (cpe-68-206-240-214.houston.res.rr.com) at Tue Sep 27 04:58:24 2005 
+Sep 27 04:58:31 combo ftpd[29301]: connection from 68.206.240.214 (cpe-68-206-240-214.houston.res.rr.com) at Tue Sep 27 04:58:31 2005 
+Sep 27 15:51:06 combo ftpd[30242]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30248]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30247]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30244]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30246]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30243]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30241]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:06 combo ftpd[30245]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:06 2005 
+Sep 27 15:51:07 combo ftpd[30249]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:07 2005 
+Sep 27 15:51:07 combo ftpd[30250]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:07 2005 
+Sep 27 15:51:07 combo ftpd[30251]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:07 2005 
+Sep 27 15:51:08 combo ftpd[30252]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:08 2005 
+Sep 27 15:51:08 combo ftpd[30254]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:08 2005 
+Sep 27 15:51:08 combo ftpd[30253]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:08 2005 
+Sep 27 15:51:08 combo ftpd[30255]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:08 2005 
+Sep 27 15:51:09 combo ftpd[30256]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:09 2005 
+Sep 27 15:51:09 combo ftpd[30257]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:09 2005 
+Sep 27 15:51:10 combo ftpd[30258]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:10 2005 
+Sep 27 15:51:10 combo ftpd[30260]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:10 2005 
+Sep 27 15:51:10 combo ftpd[30259]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:10 2005 
+Sep 27 15:51:10 combo ftpd[30261]: connection from 84.160.176.141 (p54A0B08D.dip0.t-ipconnect.de) at Tue Sep 27 15:51:10 2005 
+Sep 28 04:03:34 combo su(pam_unix)[31640]: session opened for user cyrus by (uid=0)
+Sep 28 04:03:35 combo su(pam_unix)[31640]: session closed for user cyrus
+Sep 28 04:03:36 combo logrotate: ALERT exited abnormally with [1]
+Sep 28 04:14:34 combo su(pam_unix)[407]: session opened for user news by (uid=0)
+Sep 28 04:14:35 combo su(pam_unix)[407]: session closed for user news
+Sep 28 09:03:07 combo gdm(pam_unix)[2799]: bad username []
+Sep 28 09:03:08 combo gpm[2094]: *** info [mice.c(1766)]: 
+Sep 28 09:03:08 combo gpm[2094]: imps2: Auto-detected intellimouse PS/2
+Sep 28 09:03:10 combo gdm-binary[2799]: Couldn't authenticate user
+Sep 28 09:03:14 combo login(pam_unix)[2417]: session opened for user root by LOGIN(uid=0)
+Sep 28 09:03:14 combo  -- root[2417]: ROOT LOGIN ON tty2
+Sep 28 09:03:45 combo sendmail: sendmail shutdown failed
+Sep 28 09:03:55 combo sendmail: sm-client shutdown succeeded
+Sep 28 09:08:28 combo shutdown: shutting down for system reboot
+Sep 28 09:08:28 combo init: Switching to runlevel: 6
+Sep 28 09:08:29 combo login(pam_unix)[2417]: session closed for user root
+Sep 28 09:08:30 combo udev[1111]: removing device node '/udev/vcsa4'
+Sep 28 09:08:30 combo udev[1112]: removing device node '/udev/vcs5'
+Sep 28 09:08:30 combo udev[1113]: removing device node '/udev/vcsa5'
+Sep 28 09:08:30 combo udev[1108]: removing device node '/udev/vcs3'
+Sep 28 09:08:30 combo udev[1110]: removing device node '/udev/vcs4'
+Sep 28 09:08:30 combo udev[1115]: removing device node '/udev/vcsa6'
+Sep 28 09:08:30 combo udev[1109]: removing device node '/udev/vcsa3'
+Sep 28 09:08:30 combo udev[1116]: removing device node '/udev/vcs2'
+Sep 28 09:08:30 combo udev[1114]: removing device node '/udev/vcs6'
+Sep 28 09:08:30 combo udev[1117]: removing device node '/udev/vcsa2'
+Sep 28 09:08:34 combo udev[1165]: removing device node '/udev/vcs7'
+Sep 28 09:08:34 combo udev[1176]: removing device node '/udev/vcsa7'
+Sep 28 09:08:35 combo messagebus: messagebus -TERM succeeded
+Sep 28 09:08:36 combo atd: atd shutdown succeeded
+Sep 28 09:08:38 combo privoxy: privoxy shutdown succeeded
+Sep 28 09:08:39 combo cups: cupsd shutdown succeeded
+Sep 28 09:08:39 combo xfs[2183]: terminating 
+Sep 28 09:08:40 combo xfs: xfs shutdown succeeded
+Sep 28 09:08:41 combo FreeWnn: jserver shutdown succeeded
+Sep 28 09:08:42 combo cannaserver[2133]: irw_killserver:cannaserver end 
+Sep 28 09:08:42 combo canna: Stopping Canna server: succeeded
+Sep 28 09:08:42 combo mysqld: Stopping MySQL:  succeeded
+Sep 28 09:08:44 combo gpm: gpm shutdown succeeded
+Sep 28 09:08:48 combo httpd: httpd shutdown succeeded
+Sep 28 09:08:49 combo squid: Stopping squid: 
+Sep 28 09:08:52 combo squid: .
+Sep 28 09:08:56 combo last message repeated 2 times
+Sep 28 09:08:56 combo squid: 
+Sep 28 09:08:56 combo squid[2292]: Squid Parent: child process 2294 exited with status 0
+Sep 28 09:08:57 combo rc: Stopping squid:  succeeded
+Sep 28 09:08:57 combo sshd: sshd -TERM succeeded
+Sep 28 09:08:58 combo sendmail: sendmail shutdown failed
+Sep 28 09:09:03 combo spamassassin: spamd shutdown succeeded
+Sep 28 09:09:03 combo smartd[1788]: smartd received signal 15: Terminated 
+Sep 28 09:09:03 combo smartd[1788]: smartd is exiting (exit status 0) 
+Sep 28 09:09:04 combo smartd: smartd shutdown succeeded
+Sep 28 13:09:04 combo named[2305]: shutting down
+Sep 28 13:09:05 combo named[2305]: no longer listening on 127.0.0.1#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.67#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.69#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.70#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.71#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.72#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.73#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.75#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.80#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.81#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.82#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.83#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.84#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.85#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.87#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.89#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.90#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.95#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.100#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.105#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.110#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.115#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.120#53
+Sep 28 13:09:05 combo named[2305]: no longer listening on 63.126.79.125#53
+Sep 28 13:09:05 combo named[2305]: exiting
+Sep 28 09:09:08 combo named: named shutdown succeeded
+Sep 28 09:09:09 combo snmpd[2317]: Received TERM or STOP signal...  shutting down... 
+Sep 28 09:09:12 combo snmpd: snmpd shutdown succeeded
+Sep 28 09:09:13 combo xinetd[2034]: Exiting...
+Sep 28 09:09:14 combo xinetd: xinetd shutdown succeeded
+Sep 28 09:09:14 combo crond: crond shutdown succeeded
+Sep 28 09:09:14 combo apmd[1748]: Exiting
+Sep 28 09:09:15 combo apmd: apmd shutdown succeeded
+Sep 28 09:09:15 combo ntpd[2326]: ntpd exiting on signal 15
+Sep 28 09:09:15 combo ntpd: ntpd shutdown succeeded
+Sep 28 09:09:15 combo dd: 1+0 records in
+Sep 28 09:09:15 combo dd: 1+0 records out
+Sep 28 09:09:16 combo random: Saving random seed:  succeeded
+Sep 28 09:09:16 combo rpc.statd[1636]: Caught signal 15, un-registering and exiting.
+Sep 28 09:09:17 combo nfslock: rpc.statd shutdown succeeded
+Sep 28 09:09:17 combo portmap: portmap shutdown succeeded
+Sep 28 09:09:17 combo kernel: Kernel logging (proc) stopped.
+Sep 28 09:09:17 combo kernel: Kernel log daemon terminating.
+Sep 28 09:09:19 combo syslog: klogd shutdown succeeded
+Sep 28 09:09:19 combo exiting on signal 15
+Sep 28 09:10:48 combo syslogd 1.4.1: restart.
+Sep 28 09:10:48 combo syslog: syslogd startup succeeded
+Sep 28 09:10:48 combo syslog: klogd startup succeeded
+Sep 28 09:10:49 combo kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Sep 28 09:10:49 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+Sep 28 09:10:49 combo kernel: BIOS-provided physical RAM map:
+Sep 28 09:10:49 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+Sep 28 09:10:49 combo kernel:  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+Sep 28 09:10:49 combo kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+Sep 28 09:10:49 combo kernel:  BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)
+Sep 28 09:10:49 combo kernel:  BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+Sep 28 09:10:49 combo kernel: 0MB HIGHMEM available.
+Sep 28 09:10:49 combo kernel: 126MB LOWMEM available.
+Sep 28 09:10:49 combo kernel: zapping low mappings.
+Sep 28 09:10:49 combo kernel: On node 0 totalpages: 32430
+Sep 28 09:10:49 combo kernel:   DMA zone: 4096 pages, LIFO batch:1
+Sep 28 09:10:49 combo kernel:   Normal zone: 28334 pages, LIFO batch:6
+Sep 28 09:10:49 combo kernel:   HighMem zone: 0 pages, LIFO batch:1
+Sep 28 09:10:49 combo kernel: DMI 2.3 present.
+Sep 28 09:10:49 combo irqbalance: irqbalance startup succeeded
+Sep 28 09:10:49 combo kernel: ACPI disabled because your bios is from 2000 and too old
+Sep 28 09:10:49 combo kernel: You can enable it with acpi=force
+Sep 28 09:10:49 combo kernel: Built 1 zonelists
+Sep 28 09:10:49 combo portmap: portmap startup succeeded
+Sep 28 09:10:49 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
+Sep 28 09:10:49 combo kernel: mapped 4G/4G trampoline to ffff3000.
+Sep 28 09:10:49 combo kernel: Initializing CPU#0
+Sep 28 09:10:49 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
+Sep 28 09:10:49 combo kernel: PID hash table entries: 512 (order 9: 4096 bytes)
+Sep 28 09:10:49 combo kernel: Detected 730.921 MHz processor.
+Sep 28 09:10:49 combo kernel: Using tsc for high-res timesource
+Sep 28 09:10:49 combo kernel: Console: colour VGA+ 80x25
+Sep 28 09:10:49 combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+Sep 28 09:10:49 combo kernel: Calibrating delay loop... 1441.79 BogoMIPS
+Sep 28 09:10:49 combo kernel: Security Scaffold v1.0.0 initialized
+Sep 28 09:10:49 combo kernel: SELinux:  Initializing.
+Sep 28 09:10:49 combo rpc.statd[1608]: Version 1.0.6 Starting
+Sep 28 09:10:49 combo kernel: SELinux:  Starting in permissive mode
+Sep 28 09:10:49 combo nfslock: rpc.statd startup succeeded
+Sep 28 09:10:49 combo kernel: There is already a security framework initialized, register_security failed.
+Sep 28 09:10:49 combo kernel: Failure registering capabilities with the kernel
+Sep 28 09:10:49 combo kernel: selinux_register_security:  Registering secondary module capability
+Sep 28 09:10:49 combo kernel: Capability LSM initialized
+Sep 28 09:10:49 combo kernel: Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+Sep 28 09:10:49 combo kernel: Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+Sep 28 09:10:49 combo kernel: Mount-cache hash table entries: 512 (order: 0, 4096 bytes)
+Sep 28 09:10:49 combo kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Sep 28 09:10:49 combo kernel: CPU: L2 cache: 256K
+Sep 28 09:10:49 combo kernel: Intel machine check architecture supported.
+Sep 28 09:10:49 combo kernel: Intel machine check reporting enabled on CPU#0.
+Sep 28 09:10:49 combo kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Sep 28 09:10:49 combo kernel: Enabling fast FPU save and restore... done.
+Sep 28 09:10:49 combo kernel: Enabling unmasked SIMD FPU exception support... done.
+Sep 28 09:10:49 combo kernel: Checking 'hlt' instruction... OK.
+Sep 28 09:10:50 combo kernel: POSIX conformance testing by UNIFIX
+Sep 28 09:10:50 combo kernel: NET: Registered protocol family 16
+Sep 28 09:10:50 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Sep 28 09:10:50 combo kernel: PCI: Using configuration type 1
+Sep 28 09:10:50 combo kernel: mtrr: v2.0 (20020519)
+Sep 28 09:10:50 combo kernel: ACPI: Subsystem revision 20040326
+Sep 28 09:10:50 combo kernel: ACPI: Interpreter disabled.
+Sep 28 09:10:50 combo kernel: Linux Plug and Play Support v0.97 (c) Adam Belay
+Sep 28 09:10:50 combo kernel: usbcore: registered new driver usbfs
+Sep 28 09:10:50 combo kernel: usbcore: registered new driver hub
+Sep 28 09:10:50 combo kernel: ACPI: ACPI tables contain no PCI IRQ routing entries
+Sep 28 09:10:50 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Sep 28 09:10:50 combo kernel: PCI: Probing PCI hardware
+Sep 28 09:10:50 combo kernel: PCI: Probing PCI hardware (bus 00)
+Sep 28 09:10:50 combo kernel: Transparent bridge - 0000:00:1e.0
+Sep 28 09:10:50 combo kernel: PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+Sep 28 09:10:50 combo kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+Sep 28 09:10:50 combo rpcidmapd: rpc.idmapd startup succeeded
+Sep 28 09:10:50 combo kernel: audit: initializing netlink socket (disabled)
+Sep 28 09:10:50 combo kernel: audit(1127898608.244:0): initialized
+Sep 28 09:10:50 combo kernel: Total HugeTLB memory allocated, 0
+Sep 28 09:10:50 combo random: Initializing random number generator:  succeeded
+Sep 28 09:10:50 combo kernel: VFS: Disk quotas dquot_6.5.1
+Sep 28 09:10:50 combo kernel: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Sep 28 09:10:50 combo kernel: SELinux:  Registering netfilter hooks
+Sep 28 09:10:50 combo kernel: Initializing Cryptographic API
+Sep 28 09:10:50 combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Sep 28 09:10:50 combo kernel: isapnp: Scanning for PnP cards...
+Sep 28 09:10:50 combo kernel: isapnp: No Plug & Play device found
+Sep 28 09:10:50 combo kernel: Real Time Clock Driver v1.12
+Sep 28 09:10:50 combo kernel: Linux agpgart interface v0.100 (c) Dave Jones
+Sep 28 09:10:50 combo rc: Starting pcmcia:  succeeded
+Sep 28 09:10:50 combo kernel: agpgart: Detected an Intel i810 E Chipset.
+Sep 28 09:10:50 combo kernel: agpgart: Maximum main memory to use for agp memory: 93M
+Sep 28 09:10:50 combo kernel: agpgart: detected 4MB dedicated video ram.
+Sep 28 09:10:50 combo kernel: agpgart: AGP aperture is 64M @ 0xf4000000
+Sep 28 09:10:50 combo kernel: Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled
+Sep 28 09:10:50 combo kernel: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+Sep 28 09:10:50 combo kernel: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+Sep 28 09:10:50 combo kernel: RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize
+Sep 28 09:10:50 combo kernel: Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+Sep 28 09:10:50 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Sep 28 09:10:50 combo kernel: ICH: IDE controller at PCI slot 0000:00:1f.1
+Sep 28 09:10:50 combo kernel: ICH: chipset revision 2
+Sep 28 09:10:50 combo hcid[1680]: HCI daemon ver 2.4 started
+Sep 28 09:10:50 combo bluetooth: hcid startup succeeded
+Sep 28 09:10:50 combo kernel: ICH: not 100%% native mode: will probe irqs later
+Sep 28 09:10:48 combo network: Bringing up interface eth0:  succeeded 
+Sep 28 09:10:51 combo bluetooth: sdpd startup succeeded
+Sep 28 09:10:51 combo sdpd[1686]: sdpd v1.5 started 
+Sep 28 09:10:51 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Sep 28 09:10:51 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Sep 28 09:10:51 combo kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Sep 28 09:10:51 combo kernel: Using cfq io scheduler
+Sep 28 09:10:51 combo kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Sep 28 09:10:51 combo kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Sep 28 09:10:51 combo kernel: hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124 (blacklisted)
+Sep 28 09:10:51 combo kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Sep 28 09:10:51 combo kernel: hda: max request size: 128KiB
+Sep 28 09:10:51 combo netfs: Mounting other filesystems:  succeeded
+Sep 28 09:10:51 combo kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=29104/16/63, UDMA(66)
+Sep 28 09:10:51 combo kernel:  hda: hda1 hda2 hda3
+Sep 28 09:10:51 combo kernel: hdc: ATAPI 24X CD-ROM drive, 128kB Cache
+Sep 28 09:10:51 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Sep 28 09:10:51 combo kernel: ide-floppy driver 0.99.newide
+Sep 28 09:10:51 combo kernel: usbcore: registered new driver hiddev
+Sep 28 09:10:51 combo apmd[1720]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16ac)
+Sep 28 09:10:51 combo apmd: apmd startup succeeded
+Sep 28 09:10:51 combo kernel: usbcore: registered new driver hid
+Sep 28 09:10:51 combo kernel: drivers/usb/input/hid-core.c: v2.0:USB HID core driver
+Sep 28 09:10:51 combo kernel: mice: PS/2 mouse device common for all mice
+Sep 28 09:10:51 combo kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Sep 28 09:10:51 combo kernel: input: ImPS/2 Logitech Wheel Mouse on isa0060/serio1
+Sep 28 09:10:51 combo kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Sep 28 09:10:51 combo kernel: input: AT Translated Set 2 keyboard on isa0060/serio0
+Sep 28 09:10:51 combo kernel: md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Sep 28 09:10:52 combo kernel: NET: Registered protocol family 2
+Sep 28 09:10:52 combo autofs: automount startup succeeded
+Sep 28 09:10:52 combo kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Sep 28 09:10:52 combo smartd[1758]: smartd version 5.21 Copyright (C) 2002-3 Bruce Allen 
+Sep 28 09:10:52 combo kernel: TCP: Hash tables configured (established 8192 bind 16384)
+Sep 28 09:10:52 combo smartd[1758]: Home page is http://smartmontools.sourceforge.net/  
+Sep 28 09:10:52 combo kernel: Initializing IPsec netlink socket
+Sep 28 09:10:52 combo smartd[1758]: Opened configuration file /etc/smartd.conf 
+Sep 28 09:10:52 combo kernel: NET: Registered protocol family 1
+Sep 28 09:10:52 combo smartd[1758]: Configuration file /etc/smartd.conf parsed. 
+Sep 28 09:10:52 combo kernel: NET: Registered protocol family 17
+Sep 28 09:10:52 combo smartd[1758]: Device: /dev/hda, opened 
+Sep 28 09:10:52 combo kernel: checking if image is initramfs...it isn't (no cpio magic); looks like an initrd
+Sep 28 09:10:52 combo smartd[1758]: Device: /dev/hda, found in smartd database. 
+Sep 28 09:10:52 combo kernel: Freeing initrd memory: 186k freed
+Sep 28 09:10:52 combo smartd[1758]: Device: /dev/hda, is SMART capable. Adding to "monitor" list. 
+Sep 28 09:10:52 combo kernel: md: Autodetecting RAID arrays.
+Sep 28 09:10:52 combo smartd[1758]: Monitoring 1 ATA and 0 SCSI devices 
+Sep 28 09:10:52 combo kernel: md: autorun ...
+Sep 28 09:10:52 combo apmd[1720]: Charge: * * * (-1% unknown)
+Sep 28 09:10:53 combo smartd[1760]: smartd has fork()ed into background mode. New PID=1760. 
+Sep 28 09:10:53 combo smartd: smartd startup succeeded
+Sep 28 09:10:53 combo kernel: md: ... autorun DONE.
+Sep 28 09:10:53 combo kernel: RAMDISK: Compressed image found at block 0
+Sep 28 09:10:53 combo kernel: VFS: Mounted root (ext2 filesystem).
+Sep 28 09:10:53 combo kernel: kjournald starting.  Commit interval 5 seconds
+Sep 28 09:10:53 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 28 09:10:53 combo kernel: Freeing unused kernel memory: 144k freed
+Sep 28 09:10:53 combo kernel: SELinux:  Disabled at runtime.
+Sep 28 09:10:53 combo kernel: SELinux:  Unregistering netfilter hooks
+Sep 28 09:10:54 combo kernel: NET: Registered protocol family 10
+Sep 28 09:10:54 combo kernel: Disabled Privacy Extensions on device 022db720(lo)
+Sep 28 09:10:54 combo kernel: IPv6 over IPv4 tunneling driver
+Sep 28 09:10:54 combo kernel: USB Universal Host Controller Interface driver v2.2
+Sep 28 09:10:54 combo kernel: PCI: Found IRQ 11 for device 0000:00:1f.2
+Sep 28 09:10:54 combo kernel: uhci_hcd 0000:00:1f.2: UHCI Host Controller
+Sep 28 09:10:54 combo kernel: uhci_hcd 0000:00:1f.2: irq 11, io base 0000ff80
+Sep 28 09:10:54 combo kernel: uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1
+Sep 28 09:10:55 combo kernel: hub 1-0:1.0: USB hub found
+Sep 28 09:10:55 combo kernel: hub 1-0:1.0: 2 ports detected
+Sep 28 09:10:55 combo kernel: EXT3 FS on hda2, internal journal
+Sep 28 09:10:55 combo rc: Starting hpoj:  succeeded
+Sep 28 09:10:55 combo kernel: device-mapper: 4.1.0-ioctl (2003-12-10) initialised: dm@uk.sistina.com
+Sep 28 09:10:55 combo kernel: cdrom: open failed.
+Sep 28 09:10:55 combo kernel: Adding 262072k swap on /dev/hda3.  Priority:-1 extents:1
+Sep 28 09:10:55 combo kernel: kjournald starting.  Commit interval 5 seconds
+Sep 28 09:10:55 combo kernel: EXT3 FS on hda1, internal journal
+Sep 28 09:10:55 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Sep 28 09:10:55 combo kernel: IA-32 Microcode Update Driver: v1.13 <tigran@veritas.com>
+Sep 28 09:10:55 combo kernel: microcode: CPU0 already at revision 0x8 (current=0x8)
+Sep 28 09:10:55 combo kernel: microcode: No suitable data for cpu 0
+Sep 28 09:10:55 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Sep 28 09:10:55 combo kernel: parport0: irq 7 detected
+Sep 28 09:10:55 combo kernel: SCSI subsystem initialized
+Sep 28 09:10:56 combo kernel: inserting floppy driver for 2.6.5-1.358
+Sep 28 09:10:56 combo kernel: Floppy drive(s): fd0 is 1.44M
+Sep 28 09:10:56 combo kernel: FDC 0 is a National Semiconductor PC87306
+Sep 28 09:10:56 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Sep 28 09:10:57 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Sep 28 09:10:57 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Sep 28 09:10:57 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Sep 28 09:10:57 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Sep 28 09:10:57 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Sep 28 09:10:58 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Sep 28 09:10:58 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Sep 28 09:10:58 combo kernel: process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Sep 28 09:10:58 combo kernel: Bluetooth: Core ver 2.4
+Sep 28 09:10:58 combo kernel: NET: Registered protocol family 31
+Sep 28 09:10:59 combo kernel: Bluetooth: HCI device and connection manager initialized
+Sep 28 09:10:59 combo kernel: Bluetooth: HCI socket layer initialized
+Sep 28 09:10:59 combo kernel: Bluetooth: L2CAP ver 2.1
+Sep 28 09:10:59 combo kernel: Bluetooth: L2CAP socket layer initialized
+Sep 28 09:10:59 combo kernel: Bluetooth: RFCOMM ver 1.2
+Sep 28 09:10:59 combo kernel: Bluetooth: RFCOMM socket layer initialized
+Sep 28 09:10:59 combo kernel: Bluetooth: RFCOMM TTY layer initialized
+Sep 28 09:11:04 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Sep 28 09:11:04 combo kernel: parport0: irq 7 detected
+Sep 28 09:11:04 combo kernel: lp0: using parport0 (polling).
+Sep 28 09:11:04 combo kernel: lp0: console ready
+Sep 28 09:11:06 combo cups: cupsd startup succeeded
+Sep 28 09:11:06 combo sshd:  succeeded
+Sep 28 09:11:06 combo xinetd: xinetd startup succeeded
+Sep 28 09:11:09 combo xinetd[2006]: No such internal service: services/stream - DISABLING
+Sep 28 09:11:09 combo sendmail: sendmail startup succeeded
+Sep 28 09:11:09 combo sendmail: sm-client startup succeeded
+Sep 28 09:11:10 combo xinetd[2006]: bind failed (Address already in use (errno = 98)). service = telnet
+Sep 28 09:11:10 combo xinetd[2006]: Service telnet failed to start and is deactivated.
+Sep 28 09:11:10 combo xinetd[2006]: xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+Sep 28 09:11:10 combo xinetd[2006]: Started working: 30 available services
+Sep 28 09:11:14 combo udev[2045]: creating device node '/udev/lp0'
+Sep 28 09:11:18 combo spamassassin: spamd startup succeeded
+Sep 28 09:11:18 combo privoxy: Sep 28 09:11:18 Privoxy(-150880128) Info: loading configuration file '/etc/privoxy/config':
+Sep 28 09:11:19 combo privoxy: privoxy startup succeeded
+Sep 28 09:11:20 combo gpm[2071]: *** info [startup.c(95)]: 
+Sep 28 09:11:20 combo gpm[2071]: Started gpm successfully. Entered daemon mode.
+Sep 28 09:11:20 combo gpm[2071]: *** info [mice.c(1766)]: 
+Sep 28 09:11:20 combo gpm[2071]: imps2: Auto-detected intellimouse PS/2
+Sep 28 09:11:20 combo gpm: gpm startup succeeded
+Sep 28 09:11:21 combo su(pam_unix)[2080]: session opened for user htt by (uid=0)
+Sep 28 09:11:21 combo su(pam_unix)[2080]: session closed for user htt
+Sep 28 09:11:21 combo IIim: htt startup succeeded
+Sep 28 09:11:24 combo htt_server[2083]: started.
+Sep 28 09:11:25 combo canna:  succeeded
+Sep 28 09:11:25 combo crond: crond startup succeeded
+Sep 28 09:11:30 combo xfs: xfs startup succeeded
+Sep 28 09:11:30 combo anacron: anacron startup succeeded
+Sep 28 09:11:30 combo atd: atd startup succeeded
+Sep 28 09:11:31 combo readahead: Starting background readahead: 
+Sep 28 09:11:31 combo rc: Starting readahead:  succeeded
+Sep 28 09:11:32 combo messagebus: messagebus startup succeeded
+Sep 28 09:11:52 combo httpd: httpd startup succeeded
+Sep 28 09:11:55 combo squid[2265]: Squid Parent: child process 2267 started
+Sep 28 13:12:04 combo named[2281]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Sep 28 13:12:04 combo named[2281]: using 1 CPU
+Sep 28 09:12:04 combo named: named startup succeeded
+Sep 28 13:12:05 combo named[2281]: loading configuration from '/etc/named.conf'
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface lo, 127.0.0.1#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0, 63.126.79.67#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Sep 28 13:12:05 combo named[2281]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Sep 28 13:12:06 combo named[2281]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Sep 28 13:12:07 combo named[2281]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Sep 28 09:12:07 combo snmpd: snmpd startup succeeded
+Sep 28 13:12:07 combo named[2281]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Sep 28 09:12:09 combo snmpd[2293]: NET-SNMP version 5.1.1 
+Sep 28 13:12:09 combo named[2281]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Sep 28 13:12:10 combo named[2281]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Sep 28 09:12:10 combo ntpd[2310]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Sep 28 09:12:10 combo ntpd: ntpd startup succeeded
+Sep 28 13:12:11 combo named[2281]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Sep 28 13:12:12 combo named[2281]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Sep 28 09:12:13 combo ntpd[2310]: precision = 2.000 usec
+Sep 28 13:12:14 combo named[2281]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Sep 28 09:12:14 combo ntpd[2310]: kernel time sync status 0040
+Sep 28 13:12:14 combo named[2281]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Sep 28 13:12:16 combo named[2281]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Sep 28 09:12:15 combo ntpd[2310]: frequency initialized 0.000 PPM from /var/lib/ntp/drift
+Sep 28 13:12:16 combo named[2281]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Sep 28 09:12:17 combo ntpd[2310]: configure: keyword "authenticate" unknown, line ignored
+Sep 28 13:12:17 combo named[2281]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Sep 28 09:12:20 combo mysqld: Starting MySQL:  succeeded
+Sep 28 13:12:20 combo named[2281]: couldn't add command channel 127.0.0.1#953: not found
+Sep 28 13:12:20 combo named[2281]: couldn't add command channel ::1#953: not found
+Sep 28 09:12:20 combo rsyncd[2369]: rsyncd version 2.6.2 starting, listening on port 873 
+Sep 28 13:12:21 combo named[2281]: running
+Sep 28 09:12:22 combo mdmonitor: mdadm succeeded
+Sep 28 09:12:22 combo mdmpd: mdmpd failed
+Sep 28 09:12:24 combo udev[2470]: creating device node '/udev/vcsa5'
+Sep 28 09:12:24 combo udev[2453]: creating device node '/udev/vcs5'
+Sep 28 09:12:24 combo udev[2451]: removing device node '/udev/vcs8'
+Sep 28 09:12:24 combo udev[2565]: removing device node '/udev/vcsa5'
+Sep 28 09:12:24 combo udev[2570]: removing device node '/udev/vcs5'
+Sep 28 09:12:24 combo udev[2452]: removing device node '/udev/vcsa8'
+Sep 28 09:12:25 combo udev[2628]: creating device node '/udev/vcsa5'
+Sep 28 09:12:25 combo udev[2629]: creating device node '/udev/vcs4'
+Sep 28 09:12:25 combo udev[2630]: creating device node '/udev/vcsa4'
+Sep 28 09:12:25 combo udev[2632]: creating device node '/udev/vcs3'
+Sep 28 09:12:25 combo udev[2633]: creating device node '/udev/vcsa3'
+Sep 28 09:12:25 combo udev[2634]: creating device node '/udev/vcs2'
+Sep 28 09:12:25 combo udev[2635]: creating device node '/udev/vcsa2'
+Sep 28 09:12:25 combo udev[2636]: creating device node '/udev/vcs1'
+Sep 28 09:12:25 combo udev[2637]: creating device node '/udev/vcsa1'
+Sep 28 09:12:25 combo udev[2679]: creating device node '/udev/vcs5'
+Sep 28 09:12:26 combo udev[2644]: creating device node '/udev/vcs6'
+Sep 28 09:12:26 combo udev[2652]: creating device node '/udev/vcsa6'
+Sep 28 09:12:26 combo udev[2705]: removing device node '/udev/vcs4'
+Sep 28 09:12:26 combo udev[2722]: removing device node '/udev/vcsa4'
+Sep 28 09:12:27 combo udev[2731]: removing device node '/udev/vcs3'
+Sep 28 09:12:27 combo udev[2740]: removing device node '/udev/vcsa3'
+Sep 28 09:12:28 combo udev[2749]: removing device node '/udev/vcs2'
+Sep 28 09:12:28 combo udev[2758]: removing device node '/udev/vcsa2'
+Sep 28 09:12:28 combo udev[2767]: removing device node '/udev/vcs1'
+Sep 28 09:12:28 combo udev[2776]: removing device node '/udev/vcsa1'
+Sep 28 09:12:29 combo udev[2789]: removing device node '/udev/vcs6'
+Sep 28 09:12:29 combo udev[2798]: removing device node '/udev/vcsa6'
+Sep 28 09:12:30 combo udev[2803]: creating device node '/udev/vcs4'
+Sep 28 09:12:30 combo udev[2804]: creating device node '/udev/vcsa4'
+Sep 28 09:12:30 combo udev[2806]: creating device node '/udev/vcs3'
+Sep 28 09:12:31 combo udev[2807]: creating device node '/udev/vcsa3'
+Sep 28 09:12:31 combo udev[2808]: creating device node '/udev/vcs2'
+Sep 28 09:12:31 combo udev[2809]: creating device node '/udev/vcsa2'
+Sep 28 09:12:32 combo udev[2810]: creating device node '/udev/vcs1'
+Sep 28 09:12:32 combo udev[2811]: creating device node '/udev/vcsa1'
+Sep 28 09:12:32 combo udev[2812]: creating device node '/udev/vcs6'
+Sep 28 09:12:32 combo udev[2814]: creating device node '/udev/vcsa6'
+Sep 28 09:12:36 combo udev[2821]: creating device node '/udev/vcs7'
+Sep 28 09:12:36 combo udev[2828]: creating device node '/udev/vcsa7'
+Sep 28 09:12:36 combo udev[2898]: removing device node '/udev/vcs7'
+Sep 28 09:12:36 combo udev[2907]: removing device node '/udev/vcsa7'
+Sep 28 09:12:37 combo udev[2912]: creating device node '/udev/vcs7'
+Sep 28 09:12:38 combo udev[2913]: creating device node '/udev/vcsa7'
+Sep 28 09:15:33 combo ntpd[2310]: synchronized to LOCAL(0), stratum=10
+Sep 28 09:15:33 combo ntpd[2310]: kernel time sync disabled 0041
+Sep 28 09:16:37 combo ntpd[2310]: kernel time sync enabled 0001
+Sep 28 13:38:11 combo rpc.statd[1608]: gethostbyname error for ^X÷ÿ¿^X÷ÿ¿^Z÷ÿ¿^Z÷ÿ¿%8x%8x%8x%8x%8x%8x%8x%8x%8x%62716x%hn%51859x%hn\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220\220
+Sep 28 14:39:55 combo xinetd[2006]: file descriptor of service comsat has been closed
+Sep 28 14:39:55 combo xinetd[2006]: select reported EBADF but no bad file descriptors were found
+Sep 28 21:33:35 combo sshd(pam_unix)[3942]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=nous.soft.net  user=root
+Sep 29 04:03:22 combo su(pam_unix)[4891]: session opened for user cyrus by (uid=0)
+Sep 29 04:03:22 combo su(pam_unix)[4891]: session closed for user cyrus
+Sep 29 04:03:23 combo logrotate: ALERT exited abnormally with [1]
+Sep 29 04:10:33 combo su(pam_unix)[5268]: session opened for user news by (uid=0)
+Sep 29 04:10:34 combo su(pam_unix)[5268]: session closed for user news
+Sep 29 12:27:57 combo gdm(pam_unix)[2813]: bad username []
+Sep 29 12:27:59 combo gdm-binary[2813]: Couldn't authenticate user
+Sep 29 12:28:06 combo gdm(pam_unix)[2813]: bad username []
+Sep 29 12:28:07 combo gdm-binary[2813]: Couldn't authenticate user
+Sep 29 12:28:10 combo gpm[2071]: *** info [mice.c(1766)]: 
+Sep 29 12:28:10 combo gpm[2071]: imps2: Auto-detected intellimouse PS/2
+Sep 29 12:28:13 combo login(pam_unix)[2402]: session opened for user root by LOGIN(uid=0)
+Sep 29 12:28:13 combo  -- root[2402]: ROOT LOGIN ON tty2
+Sep 29 12:28:40 combo sendmail: sendmail shutdown failed
+Sep 29 12:28:40 combo sendmail: sm-client shutdown failed
+Sep 29 12:29:16 combo su(pam_unix)[6099]: session opened for user test by root(uid=0)
+Sep 29 12:29:41 combo su(pam_unix)[6099]: session closed for user test
+Sep 29 12:32:04 combo sendmail: sendmail startup succeeded
+Sep 29 12:32:04 combo sendmail: sm-client startup succeeded
+Sep 29 12:32:48 combo login(pam_unix)[2402]: session closed for user root
+Sep 29 12:32:48 combo init: open(/dev/pts/0): No such file or directory
+Sep 29 12:32:49 combo udev[6287]: removing device node '/udev/vcs2'
+Sep 29 12:32:49 combo udev[6288]: removing device node '/udev/vcsa2'
+Sep 29 12:32:49 combo udev[6297]: creating device node '/udev/vcsa2'
+Sep 29 12:32:49 combo udev[6298]: creating device node '/udev/vcs2'
+Sep 29 12:32:49 combo udev[6306]: removing device node '/udev/vcsa2'
+Sep 29 12:32:49 combo udev[6310]: removing device node '/udev/vcs2'
+Sep 29 12:32:49 combo udev[6315]: creating device node '/udev/vcsa2'
+Sep 29 12:32:49 combo udev[6318]: creating device node '/udev/vcs2'
+Sep 29 18:20:24 combo sshd(pam_unix)[6846]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6847]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6847]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6848]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6848]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6845]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6845]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6853]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6853]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6854]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6854]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6855]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:24 combo sshd(pam_unix)[6856]: check pass; user unknown
+Sep 29 18:20:24 combo sshd(pam_unix)[6856]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:25 combo sshd(pam_unix)[6861]: check pass; user unknown
+Sep 29 18:20:25 combo sshd(pam_unix)[6861]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 29 18:20:26 combo sshd(pam_unix)[6863]: check pass; user unknown
+Sep 29 18:20:26 combo sshd(pam_unix)[6863]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-218-185-123.hinet-ip.hinet.net 
+Sep 30 04:05:53 combo su(pam_unix)[8022]: session opened for user cyrus by (uid=0)
+Sep 30 04:05:54 combo su(pam_unix)[8022]: session closed for user cyrus
+Sep 30 04:05:54 combo logrotate: ALERT exited abnormally with [1]
+Sep 30 04:11:44 combo su(pam_unix)[9250]: session opened for user news by (uid=0)
+Sep 30 04:11:45 combo su(pam_unix)[9250]: session closed for user news
+Sep 30 06:10:43 combo sshd(pam_unix)[9465]: check pass; user unknown
+Sep 30 06:10:43 combo sshd(pam_unix)[9465]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com 
+Sep 30 06:10:45 combo sshd(pam_unix)[9467]: check pass; user unknown
+Sep 30 06:10:45 combo sshd(pam_unix)[9467]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com 
+Sep 30 06:10:48 combo sshd(pam_unix)[9469]: check pass; user unknown
+Sep 30 06:10:48 combo sshd(pam_unix)[9469]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com 
+Sep 30 06:10:50 combo sshd(pam_unix)[9471]: check pass; user unknown
+Sep 30 06:10:50 combo sshd(pam_unix)[9471]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com 
+Sep 30 06:10:52 combo sshd(pam_unix)[9473]: check pass; user unknown
+Sep 30 06:10:52 combo sshd(pam_unix)[9473]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=fparas.securepathways.com 
+Sep 30 13:54:57 combo sshd(pam_unix)[10101]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:54:59 combo sshd(pam_unix)[10104]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:54:59 combo sshd(pam_unix)[10103]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:03 combo sshd(pam_unix)[10108]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:04 combo sshd(pam_unix)[10107]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:05 combo sshd(pam_unix)[10112]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:05 combo sshd(pam_unix)[10114]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:07 combo sshd(pam_unix)[10111]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:07 combo sshd(pam_unix)[10119]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Sep 30 13:55:08 combo sshd(pam_unix)[10113]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.155.31.54  user=root
+Oct  1 04:03:26 combo su(pam_unix)[11688]: session opened for user cyrus by (uid=0)
+Oct  1 04:03:26 combo su(pam_unix)[11688]: session closed for user cyrus
+Oct  1 04:03:27 combo logrotate: ALERT exited abnormally with [1]
+Oct  1 04:08:51 combo su(pam_unix)[12061]: session opened for user news by (uid=0)
+Oct  1 04:08:51 combo su(pam_unix)[12061]: session closed for user news
+Oct  1 06:24:45 combo ftpd[12323]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12319]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12324]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12322]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12320]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12309]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12321]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12328]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12318]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12326]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12316]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12311]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12327]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12325]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12314]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12312]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12313]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12308]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12317]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12306]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12315]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12310]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:24:45 combo ftpd[12307]: connection from 61.81.120.158 () at Sat Oct  1 06:24:45 2005 
+Oct  1 06:50:49 combo sshd(pam_unix)[12386]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12386]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12384]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12384]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12392]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12392]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12391]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12389]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12389]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12390]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12388]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12387]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12383]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12385]: check pass; user unknown
+Oct  1 06:50:49 combo sshd(pam_unix)[12388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12387]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12383]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 06:50:49 combo sshd(pam_unix)[12385]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=llekm-static-203.200.147.8.vsnl.net.in 
+Oct  1 07:07:50 combo ftpd[12433]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12438]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12432]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12436]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12443]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12440]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12442]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12435]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12434]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12453]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12439]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12441]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12437]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12448]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12447]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12445]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12449]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12446]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12444]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12451]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12452]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12454]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  1 07:07:50 combo ftpd[12450]: connection from 61.84.48.55 () at Sat Oct  1 07:07:50 2005 
+Oct  2 04:06:26 combo su(pam_unix)[14536]: session opened for user cyrus by (uid=0)
+Oct  2 04:06:27 combo su(pam_unix)[14536]: session closed for user cyrus
+Oct  2 04:06:29 combo cups: cupsd shutdown succeeded
+Oct  2 04:06:35 combo cups: cupsd startup succeeded

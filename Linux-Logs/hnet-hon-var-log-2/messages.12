@@ -1,0 +1,770 @@
+Jun  9 06:06:20 combo syslogd 1.4.1: restart.
+Jun  9 06:06:20 combo syslog: syslogd startup succeeded
+Jun  9 06:06:20 combo syslog: klogd startup succeeded
+Jun  9 06:06:20 combo kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Jun  9 06:06:20 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+Jun  9 06:06:20 combo kernel: BIOS-provided physical RAM map:
+Jun  9 06:06:20 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+Jun  9 06:06:20 combo kernel:  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+Jun  9 06:06:20 combo kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+Jun  9 06:06:20 combo kernel:  BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)
+Jun  9 06:06:20 combo kernel:  BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+Jun  9 06:06:20 combo kernel: 0MB HIGHMEM available.
+Jun  9 06:06:20 combo kernel: 126MB LOWMEM available.
+Jun  9 06:06:20 combo kernel: zapping low mappings.
+Jun  9 06:06:20 combo kernel: On node 0 totalpages: 32430
+Jun  9 06:06:20 combo kernel:   DMA zone: 4096 pages, LIFO batch:1
+Jun  9 06:06:20 combo kernel:   Normal zone: 28334 pages, LIFO batch:6
+Jun  9 06:06:20 combo kernel:   HighMem zone: 0 pages, LIFO batch:1
+Jun  9 06:06:20 combo kernel: DMI 2.3 present.
+Jun  9 06:06:20 combo kernel: ACPI disabled because your bios is from 2000 and too old
+Jun  9 06:06:20 combo kernel: You can enable it with acpi=force
+Jun  9 06:06:20 combo kernel: Built 1 zonelists
+Jun  9 06:06:20 combo irqbalance: irqbalance startup succeeded
+Jun  9 06:06:20 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
+Jun  9 06:06:20 combo kernel: mapped 4G/4G trampoline to ffff3000.
+Jun  9 06:06:20 combo kernel: Initializing CPU#0
+Jun  9 06:06:20 combo portmap: portmap startup succeeded
+Jun  9 06:06:20 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
+Jun  9 06:06:20 combo kernel: PID hash table entries: 512 (order 9: 4096 bytes)
+Jun  9 06:06:20 combo kernel: Detected 731.214 MHz processor.
+Jun  9 06:06:20 combo kernel: Using tsc for high-res timesource
+Jun  9 06:06:20 combo kernel: Console: colour VGA+ 80x25
+Jun  9 06:06:20 combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+Jun  9 06:06:20 combo kernel: Calibrating delay loop... 1441.79 BogoMIPS
+Jun  9 06:06:20 combo kernel: Security Scaffold v1.0.0 initialized
+Jun  9 06:06:20 combo kernel: SELinux:  Initializing.
+Jun  9 06:06:20 combo kernel: SELinux:  Starting in permissive mode
+Jun  9 06:06:20 combo kernel: There is already a security framework initialized, register_security failed.
+Jun  9 06:06:20 combo kernel: Failure registering capabilities with the kernel
+Jun  9 06:06:20 combo kernel: selinux_register_security:  Registering secondary module capability
+Jun  9 06:06:20 combo kernel: Capability LSM initialized
+Jun  9 06:06:20 combo kernel: Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+Jun  9 06:06:20 combo kernel: Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jun  9 06:06:20 combo kernel: Mount-cache hash table entries: 512 (order: 0, 4096 bytes)
+Jun  9 06:06:20 combo rpc.statd[1605]: Version 1.0.6 Starting
+Jun  9 06:06:20 combo nfslock: rpc.statd startup succeeded
+Jun  9 06:06:20 combo kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Jun  9 06:06:21 combo kernel: CPU: L2 cache: 256K
+Jun  9 06:06:21 combo kernel: Intel machine check architecture supported.
+Jun  9 06:06:21 combo kernel: Intel machine check reporting enabled on CPU#0.
+Jun  9 06:06:21 combo kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Jun  9 06:06:21 combo kernel: Enabling fast FPU save and restore... done.
+Jun  9 06:06:21 combo kernel: Enabling unmasked SIMD FPU exception support... done.
+Jun  9 06:06:21 combo kernel: Checking 'hlt' instruction... OK.
+Jun  9 06:06:21 combo kernel: POSIX conformance testing by UNIFIX
+Jun  9 06:06:21 combo kernel: NET: Registered protocol family 16
+Jun  9 06:06:21 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Jun  9 06:06:21 combo kernel: PCI: Using configuration type 1
+Jun  9 06:06:21 combo kernel: mtrr: v2.0 (20020519)
+Jun  9 06:06:21 combo kernel: ACPI: Subsystem revision 20040326
+Jun  9 06:06:21 combo kernel: ACPI: Interpreter disabled.
+Jun  9 06:06:21 combo kernel: Linux Plug and Play Support v0.97 (c) Adam Belay
+Jun  9 06:06:21 combo kernel: usbcore: registered new driver usbfs
+Jun  9 06:06:21 combo kernel: usbcore: registered new driver hub
+Jun  9 06:06:21 combo rpcidmapd: rpc.idmapd startup succeeded
+Jun  9 06:06:21 combo kernel: ACPI: ACPI tables contain no PCI IRQ routing entries
+Jun  9 06:06:21 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Jun  9 06:06:21 combo random: Initializing random number generator:  succeeded
+Jun  9 06:06:21 combo kernel: PCI: Probing PCI hardware
+Jun  9 06:06:21 combo kernel: PCI: Probing PCI hardware (bus 00)
+Jun  9 06:06:21 combo kernel: Transparent bridge - 0000:00:1e.0
+Jun  9 06:06:21 combo kernel: PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+Jun  9 06:06:21 combo kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+Jun  9 06:06:21 combo kernel: audit: initializing netlink socket (disabled)
+Jun  9 06:06:21 combo kernel: audit(1118297138.4294965368:0): initialized
+Jun  9 06:06:21 combo kernel: Total HugeTLB memory allocated, 0
+Jun  9 06:06:21 combo rc: Starting pcmcia:  succeeded
+Jun  9 06:06:21 combo kernel: VFS: Disk quotas dquot_6.5.1
+Jun  9 06:06:21 combo kernel: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Jun  9 06:06:21 combo kernel: SELinux:  Registering netfilter hooks
+Jun  9 06:06:21 combo kernel: Initializing Cryptographic API
+Jun  9 06:06:21 combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Jun  9 06:06:21 combo kernel: isapnp: Scanning for PnP cards...
+Jun  9 06:06:21 combo kernel: isapnp: No Plug & Play device found
+Jun  9 06:06:21 combo kernel: Real Time Clock Driver v1.12
+Jun  9 06:06:21 combo kernel: Linux agpgart interface v0.100 (c) Dave Jones
+Jun  9 06:06:21 combo kernel: agpgart: Detected an Intel i810 E Chipset.
+Jun  9 06:06:21 combo kernel: agpgart: Maximum main memory to use for agp memory: 93M
+Jun  9 06:06:22 combo bluetooth: hcid startup succeeded
+Jun  9 06:06:22 combo kernel: agpgart: detected 4MB dedicated video ram.
+Jun  9 06:06:22 combo hcid[1677]: HCI daemon ver 2.4 started
+Jun  9 06:06:17 combo network: Setting network parameters:  succeeded 
+Jun  9 06:06:22 combo bluetooth: sdpd startup succeeded
+Jun  9 06:06:22 combo kernel: agpgart: AGP aperture is 64M @ 0xf4000000
+Jun  9 06:06:22 combo sdpd[1681]: sdpd v1.5 started 
+Jun  9 06:06:17 combo network: Bringing up loopback interface:  succeeded 
+Jun  9 06:06:22 combo kernel: Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled
+Jun  9 06:06:22 combo kernel: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+Jun  9 06:06:22 combo kernel: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+Jun  9 06:06:22 combo kernel: RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize
+Jun  9 06:06:22 combo kernel: Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+Jun  9 06:06:23 combo netfs: Mounting other filesystems:  succeeded
+Jun  9 06:06:23 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Jun  9 06:06:23 combo kernel: ICH: IDE controller at PCI slot 0000:00:1f.1
+Jun  9 06:06:23 combo apmd[1717]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16ac)
+Jun  9 06:06:23 combo apmd: apmd startup succeeded
+Jun  9 06:06:23 combo kernel: ICH: chipset revision 2
+Jun  9 06:06:23 combo kernel: ICH: not 100%% native mode: will probe irqs later
+Jun  9 06:06:23 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Jun  9 06:06:24 combo autofs: automount startup succeeded
+Jun  9 06:06:24 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Jun  9 06:06:24 combo kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Jun  9 06:06:24 combo smartd[1755]: smartd version 5.21 Copyright (C) 2002-3 Bruce Allen 
+Jun  9 06:06:24 combo kernel: Using cfq io scheduler
+Jun  9 06:06:24 combo smartd[1755]: Home page is http://smartmontools.sourceforge.net/  
+Jun  9 06:06:24 combo kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Jun  9 06:06:24 combo smartd[1755]: Opened configuration file /etc/smartd.conf 
+Jun  9 06:06:24 combo kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Jun  9 06:06:24 combo smartd[1755]: Configuration file /etc/smartd.conf parsed. 
+Jun  9 06:06:24 combo kernel: hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124 (blacklisted)
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, opened 
+Jun  9 06:06:24 combo kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Jun  9 06:06:24 combo apmd[1717]: Charge: * * * (-1% unknown)
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, found in smartd database. 
+Jun  9 06:06:24 combo kernel: hda: max request size: 128KiB
+Jun  9 06:06:24 combo smartd[1755]: Device: /dev/hda, is SMART capable. Adding to "monitor" list. 
+Jun  9 06:06:24 combo kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=29104/16/63, UDMA(66)
+Jun  9 06:06:24 combo smartd[1755]: Monitoring 1 ATA and 0 SCSI devices 
+Jun  9 06:06:24 combo kernel:  hda: hda1 hda2 hda3
+Jun  9 06:06:24 combo smartd[1757]: smartd has fork()ed into background mode. New PID=1757. 
+Jun  9 06:06:24 combo smartd: smartd startup succeeded
+Jun  9 06:06:24 combo kernel: hdc: ATAPI 24X CD-ROM drive, 128kB Cache
+Jun  9 06:06:24 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Jun  9 06:06:24 combo kernel: ide-floppy driver 0.99.newide
+Jun  9 06:06:24 combo kernel: usbcore: registered new driver hiddev
+Jun  9 06:06:24 combo kernel: usbcore: registered new driver hid
+Jun  9 06:06:24 combo kernel: drivers/usb/input/hid-core.c: v2.0:USB HID core driver
+Jun  9 06:06:25 combo kernel: mice: PS/2 mouse device common for all mice
+Jun  9 06:06:25 combo kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Jun  9 06:06:25 combo kernel: input: ImPS/2 Logitech Wheel Mouse on isa0060/serio1
+Jun  9 06:06:25 combo kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Jun  9 06:06:25 combo kernel: input: AT Translated Set 2 keyboard on isa0060/serio0
+Jun  9 06:06:25 combo kernel: md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Jun  9 06:06:25 combo kernel: NET: Registered protocol family 2
+Jun  9 06:06:25 combo kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Jun  9 06:06:26 combo kernel: TCP: Hash tables configured (established 8192 bind 16384)
+Jun  9 06:06:26 combo kernel: Initializing IPsec netlink socket
+Jun  9 06:06:26 combo kernel: NET: Registered protocol family 1
+Jun  9 06:06:26 combo kernel: NET: Registered protocol family 17
+Jun  9 06:06:26 combo kernel: checking if image is initramfs...it isn't (no cpio magic); looks like an initrd
+Jun  9 06:06:26 combo kernel: Freeing initrd memory: 186k freed
+Jun  9 06:06:26 combo kernel: md: Autodetecting RAID arrays.
+Jun  9 06:06:26 combo kernel: md: autorun ...
+Jun  9 06:06:26 combo kernel: md: ... autorun DONE.
+Jun  9 06:06:26 combo kernel: RAMDISK: Compressed image found at block 0
+Jun  9 06:06:26 combo rc: Starting hpoj:  succeeded
+Jun  9 06:06:26 combo kernel: VFS: Mounted root (ext2 filesystem).
+Jun  9 06:06:26 combo kernel: EXT3-fs: INFO: recovery required on readonly filesystem.
+Jun  9 06:06:26 combo kernel: EXT3-fs: write access will be enabled during recovery.
+Jun  9 06:06:26 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun  9 06:06:26 combo kernel: EXT3-fs: hda2: orphan cleanup on readonly fs
+Jun  9 06:06:27 combo kernel: EXT3-fs: hda2: 4 orphan inodes deleted
+Jun  9 06:06:27 combo kernel: EXT3-fs: recovery complete.
+Jun  9 06:06:27 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun  9 06:06:27 combo kernel: Freeing unused kernel memory: 144k freed
+Jun  9 06:06:27 combo kernel: SELinux:  Disabled at runtime.
+Jun  9 06:06:28 combo kernel: SELinux:  Unregistering netfilter hooks
+Jun  9 06:06:28 combo kernel: NET: Registered protocol family 10
+Jun  9 06:06:28 combo kernel: Disabled Privacy Extensions on device 022db720(lo)
+Jun  9 06:06:28 combo kernel: IPv6 over IPv4 tunneling driver
+Jun  9 06:06:28 combo kernel: USB Universal Host Controller Interface driver v2.2
+Jun  9 06:06:28 combo kernel: PCI: Found IRQ 11 for device 0000:00:1f.2
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: UHCI Host Controller
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: irq 11, io base 0000ff80
+Jun  9 06:06:29 combo kernel: uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1
+Jun  9 06:06:29 combo kernel: hub 1-0:1.0: USB hub found
+Jun  9 06:06:29 combo kernel: hub 1-0:1.0: 2 ports detected
+Jun  9 06:06:29 combo kernel: EXT3 FS on hda2, internal journal
+Jun  9 06:06:30 combo kernel: device-mapper: 4.1.0-ioctl (2003-12-10) initialised: dm@uk.sistina.com
+Jun  9 06:06:30 combo kernel: cdrom: open failed.
+Jun  9 06:06:30 combo kernel: Adding 262072k swap on /dev/hda3.  Priority:-1 extents:1
+Jun  9 06:06:30 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun  9 06:06:30 combo kernel: EXT3 FS on hda1, internal journal
+Jun  9 06:06:31 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun  9 06:06:31 combo kernel: IA-32 Microcode Update Driver: v1.13 <tigran@veritas.com>
+Jun  9 06:06:31 combo kernel: microcode: CPU0 already at revision 0x8 (current=0x8)
+Jun  9 06:06:31 combo kernel: microcode: No suitable data for cpu 0
+Jun  9 06:06:31 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun  9 06:06:31 combo kernel: parport0: irq 7 detected
+Jun  9 06:06:31 combo kernel: SCSI subsystem initialized
+Jun  9 06:06:32 combo kernel: inserting floppy driver for 2.6.5-1.358
+Jun  9 06:06:32 combo kernel: Floppy drive(s): fd0 is 1.44M
+Jun  9 06:06:32 combo kernel: FDC 0 is a National Semiconductor PC87306
+Jun  9 06:06:33 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun  9 06:06:33 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun  9 06:06:34 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun  9 06:06:34 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun  9 06:06:34 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun  9 06:06:34 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun  9 06:06:34 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun  9 06:06:34 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun  9 06:06:34 combo kernel: process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Jun  9 06:06:34 combo kernel: Bluetooth: Core ver 2.4
+Jun  9 06:06:34 combo kernel: NET: Registered protocol family 31
+Jun  9 06:06:34 combo kernel: Bluetooth: HCI device and connection manager initialized
+Jun  9 06:06:34 combo kernel: Bluetooth: HCI socket layer initialized
+Jun  9 06:06:34 combo kernel: Bluetooth: L2CAP ver 2.1
+Jun  9 06:06:34 combo kernel: Bluetooth: L2CAP socket layer initialized
+Jun  9 06:06:34 combo kernel: Bluetooth: RFCOMM ver 1.2
+Jun  9 06:06:34 combo kernel: Bluetooth: RFCOMM socket layer initialized
+Jun  9 06:06:34 combo kernel: Bluetooth: RFCOMM TTY layer initialized
+Jun  9 06:06:34 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun  9 06:06:34 combo kernel: parport0: irq 7 detected
+Jun  9 06:06:34 combo kernel: lp0: using parport0 (polling).
+Jun  9 06:06:35 combo kernel: lp0: console ready
+Jun  9 06:06:37 combo cups: cupsd startup succeeded
+Jun  9 06:06:38 combo sshd:  succeeded
+Jun  9 06:06:38 combo xinetd: xinetd startup succeeded
+Jun  9 06:06:40 combo xinetd[2003]: No such internal service: services/stream - DISABLING
+Jun  9 06:06:40 combo sendmail: sendmail startup succeeded
+Jun  9 06:06:41 combo sendmail: sm-client startup succeeded
+Jun  9 06:06:41 combo xinetd[2003]: bind failed (Address already in use (errno = 98)). service = telnet
+Jun  9 06:06:41 combo xinetd[2003]: Service telnet failed to start and is deactivated.
+Jun  9 06:06:41 combo xinetd[2003]: xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+Jun  9 06:06:41 combo xinetd[2003]: Started working: 30 available services
+Jun  9 06:06:44 combo spamassassin: spamd startup succeeded
+Jun  9 06:06:44 combo privoxy: Jun 09 06:06:44 Privoxy(-150093696) Info: loading configuration file '/etc/privoxy/config':
+Jun  9 06:06:45 combo udev[2054]: creating device node '/udev/lp0'
+Jun  9 06:06:45 combo privoxy: privoxy startup succeeded
+Jun  9 06:06:45 combo gpm[2068]: *** info [startup.c(95)]: 
+Jun  9 06:06:45 combo gpm[2068]: Started gpm successfully. Entered daemon mode.
+Jun  9 06:06:46 combo gpm[2068]: *** info [mice.c(1766)]: 
+Jun  9 06:06:46 combo gpm[2068]: imps2: Auto-detected intellimouse PS/2
+Jun  9 06:06:46 combo gpm: gpm startup succeeded
+Jun  9 06:06:46 combo su(pam_unix)[2077]: session opened for user htt by (uid=0)
+Jun  9 06:06:46 combo su(pam_unix)[2077]: session closed for user htt
+Jun  9 06:06:46 combo IIim: htt startup succeeded
+Jun  9 06:06:48 combo htt_server[2080]: started.
+Jun  9 06:06:49 combo canna:  succeeded
+Jun  9 06:06:49 combo crond: crond startup succeeded
+Jun  9 06:06:50 combo xfs: xfs startup succeeded
+Jun  9 06:06:51 combo anacron: anacron startup succeeded
+Jun  9 06:06:51 combo atd: atd startup succeeded
+Jun  9 06:06:51 combo readahead: Starting background readahead: 
+Jun  9 06:06:51 combo rc: Starting readahead:  succeeded
+Jun  9 06:06:52 combo messagebus: messagebus startup succeeded
+Jun  9 06:07:06 combo httpd: httpd startup succeeded
+Jun  9 06:07:07 combo squid[2261]: Squid Parent: child process 2264 started
+Jun  9 10:07:13 combo named[2275]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Jun  9 10:07:13 combo named[2275]: using 1 CPU
+Jun  9 06:07:13 combo named: named startup succeeded
+Jun  9 10:07:13 combo named[2275]: loading configuration from '/etc/named.conf'
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface lo, 127.0.0.1#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0, 63.126.79.67#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Jun  9 10:07:13 combo named[2275]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Jun  9 10:07:14 combo named[2275]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Jun  9 10:07:14 combo named[2275]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Jun  9 06:07:15 combo snmpd: snmpd startup succeeded
+Jun  9 10:07:15 combo named[2275]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Jun  9 10:07:16 combo named[2275]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Jun  9 06:07:16 combo snmpd[2287]: NET-SNMP version 5.1.1 
+Jun  9 10:07:16 combo named[2275]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Jun  9 06:07:17 combo ntpd[2296]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Jun  9 06:07:17 combo ntpd: ntpd startup succeeded
+Jun  9 10:07:17 combo named[2275]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Jun  9 10:07:18 combo named[2275]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Jun  9 10:07:18 combo named[2275]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Jun  9 10:07:19 combo named[2275]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Jun  9 06:07:19 combo ntpd[2296]: precision = 1.000 usec
+Jun  9 10:07:19 combo named[2275]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Jun  9 10:07:20 combo named[2275]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Jun  9 06:07:19 combo ntpd[2296]: kernel time sync status 0040
+Jun  9 10:07:20 combo named[2275]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jun  9 06:07:20 combo ntpd[2296]: frequency initialized 0.000 PPM from /var/lib/ntp/drift
+Jun  9 10:07:20 combo named[2275]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Jun  9 10:07:21 combo named[2275]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Jun  9 06:07:21 combo ntpd[2296]: configure: keyword "authenticate" unknown, line ignored
+Jun  9 10:07:21 combo named[2275]: couldn't add command channel 127.0.0.1#953: not found
+Jun  9 10:07:22 combo named[2275]: couldn't add command channel ::1#953: not found
+Jun  9 06:07:22 combo mysqld: Starting MySQL:  succeeded
+Jun  9 10:07:22 combo named[2275]: running
+Jun  9 06:07:23 combo rsyncd[2360]: rsyncd version 2.6.2 starting, listening on port 873 
+Jun  9 06:07:23 combo mdmonitor: mdadm succeeded
+Jun  9 06:07:24 combo mdmpd: mdmpd failed
+Jun  9 06:07:26 combo udev[2514]: creating device node '/udev/vcs2'
+Jun  9 06:07:26 combo udev[2515]: creating device node '/udev/vcsa2'
+Jun  9 06:07:26 combo udev[2541]: creating device node '/udev/vcs1'
+Jun  9 06:07:26 combo udev[2542]: creating device node '/udev/vcsa1'
+Jun  9 06:07:26 combo udev[2555]: creating device node '/udev/vcs5'
+Jun  9 06:07:26 combo udev[2566]: creating device node '/udev/vcsa5'
+Jun  9 06:07:26 combo udev[2590]: removing device node '/udev/vcs2'
+Jun  9 06:07:26 combo udev[2456]: removing device node '/udev/vcsa8'
+Jun  9 06:07:26 combo udev[2611]: removing device node '/udev/vcsa5'
+Jun  9 06:07:26 combo udev[2575]: removing device node '/udev/vcs1'
+Jun  9 06:07:26 combo udev[2587]: removing device node '/udev/vcsa1'
+Jun  9 06:07:26 combo udev[2596]: removing device node '/udev/vcs5'
+Jun  9 06:07:26 combo udev[2606]: creating device node '/udev/vcs2'
+Jun  9 06:07:26 combo udev[2455]: removing device node '/udev/vcs8'
+Jun  9 06:07:26 combo udev[2498]: creating device node '/udev/vcsa3'
+Jun  9 06:07:26 combo udev[2457]: creating device node '/udev/vcs3'
+Jun  9 06:07:26 combo udev[2578]: removing device node '/udev/vcsa2'
+Jun  9 06:07:27 combo udev[2720]: creating device node '/udev/vcsa5'
+Jun  9 06:07:27 combo udev[2724]: creating device node '/udev/vcs1'
+Jun  9 06:07:27 combo udev[2631]: creating device node '/udev/vcs6'
+Jun  9 06:07:27 combo udev[2641]: creating device node '/udev/vcs4'
+Jun  9 06:07:27 combo udev[2648]: creating device node '/udev/vcsa6'
+Jun  9 06:07:27 combo udev[2655]: creating device node '/udev/vcsa4'
+Jun  9 06:07:27 combo udev[2725]: creating device node '/udev/vcsa1'
+Jun  9 06:07:28 combo udev[2734]: creating device node '/udev/vcs5'
+Jun  9 06:07:28 combo udev[2743]: removing device node '/udev/vcsa3'
+Jun  9 06:07:28 combo udev[2752]: removing device node '/udev/vcs3'
+Jun  9 06:07:29 combo udev[2757]: creating device node '/udev/vcsa2'
+Jun  9 06:07:29 combo udev[2770]: removing device node '/udev/vcs6'
+Jun  9 06:07:30 combo udev[2779]: removing device node '/udev/vcs4'
+Jun  9 06:07:30 combo udev[2789]: removing device node '/udev/vcsa6'
+Jun  9 06:07:30 combo udev[2798]: removing device node '/udev/vcsa4'
+Jun  9 06:07:31 combo udev[2811]: creating device node '/udev/vcsa3'
+Jun  9 06:07:31 combo udev[2813]: creating device node '/udev/vcs3'
+Jun  9 06:07:32 combo udev[2833]: creating device node '/udev/vcs6'
+Jun  9 06:07:32 combo udev[2846]: creating device node '/udev/vcs4'
+Jun  9 06:07:32 combo udev[2847]: creating device node '/udev/vcsa6'
+Jun  9 06:07:32 combo udev[2848]: creating device node '/udev/vcsa4'
+Jun  9 06:07:33 combo udev[2820]: creating device node '/udev/vcs7'
+Jun  9 06:07:33 combo udev[2827]: creating device node '/udev/vcsa7'
+Jun  9 06:07:34 combo udev[2889]: removing device node '/udev/vcs7'
+Jun  9 06:07:34 combo udev[2898]: removing device node '/udev/vcsa7'
+Jun  9 06:07:34 combo udev[2903]: creating device node '/udev/vcs7'
+Jun  9 06:07:34 combo udev[2904]: creating device node '/udev/vcsa7'
+Jun  9 06:10:35 combo ntpd[2296]: synchronized to LOCAL(0), stratum=10
+Jun  9 06:10:35 combo ntpd[2296]: kernel time sync disabled 0041
+Jun  9 06:11:41 combo ntpd[2296]: kernel time sync enabled 0001
+Jun 10 04:02:23 combo xinetd[2003]: file descriptor of service comsat has been closed
+Jun 10 04:02:23 combo xinetd[2003]: select reported EBADF but no bad file descriptors were found
+Jun 10 04:03:01 combo su(pam_unix)[5120]: session opened for user cyrus by (uid=0)
+Jun 10 04:03:01 combo su(pam_unix)[5120]: session closed for user cyrus
+Jun 10 04:03:02 combo logrotate: ALERT exited abnormally with [1]
+Jun 10 04:09:15 combo su(pam_unix)[5493]: session opened for user news by (uid=0)
+Jun 10 04:09:16 combo su(pam_unix)[5493]: session closed for user news
+Jun 10 11:31:44 combo syslogd 1.4.1: restart.
+Jun 10 11:31:44 combo syslog: syslogd startup succeeded
+Jun 10 11:31:44 combo kernel: klogd 1.4.1, log source = /proc/kmsg started.
+Jun 10 11:31:44 combo kernel: Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004
+Jun 10 11:31:44 combo kernel: BIOS-provided physical RAM map:
+Jun 10 11:31:44 combo kernel:  BIOS-e820: 0000000000000000 - 00000000000a0000 (usable)
+Jun 10 11:31:44 combo kernel:  BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)
+Jun 10 11:31:44 combo kernel:  BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)
+Jun 10 11:31:44 combo kernel:  BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)
+Jun 10 11:31:44 combo kernel:  BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved)
+Jun 10 11:31:44 combo kernel: 0MB HIGHMEM available.
+Jun 10 11:31:44 combo kernel: 126MB LOWMEM available.
+Jun 10 11:31:44 combo kernel: zapping low mappings.
+Jun 10 11:31:44 combo kernel: On node 0 totalpages: 32430
+Jun 10 11:31:44 combo syslog: klogd startup succeeded
+Jun 10 11:31:44 combo kernel:   DMA zone: 4096 pages, LIFO batch:1
+Jun 10 11:31:44 combo kernel:   Normal zone: 28334 pages, LIFO batch:6
+Jun 10 11:31:44 combo irqbalance: irqbalance startup succeeded
+Jun 10 11:31:44 combo kernel:   HighMem zone: 0 pages, LIFO batch:1
+Jun 10 11:31:44 combo kernel: DMI 2.3 present.
+Jun 10 11:31:44 combo kernel: ACPI disabled because your bios is from 2000 and too old
+Jun 10 11:31:44 combo kernel: You can enable it with acpi=force
+Jun 10 11:31:44 combo kernel: Built 1 zonelists
+Jun 10 11:31:44 combo kernel: Kernel command line: ro root=LABEL=/ rhgb quiet
+Jun 10 11:31:44 combo kernel: mapped 4G/4G trampoline to ffff3000.
+Jun 10 11:31:44 combo kernel: Initializing CPU#0
+Jun 10 11:31:44 combo kernel: CPU 0 irqstacks, hard=02345000 soft=02344000
+Jun 10 11:31:44 combo kernel: PID hash table entries: 512 (order 9: 4096 bytes)
+Jun 10 11:31:44 combo kernel: Detected 731.221 MHz processor.
+Jun 10 11:31:44 combo kernel: Using tsc for high-res timesource
+Jun 10 11:31:44 combo kernel: Console: colour VGA+ 80x25
+Jun 10 11:31:44 combo kernel: Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)
+Jun 10 11:31:44 combo kernel: Calibrating delay loop... 1445.88 BogoMIPS
+Jun 10 11:31:44 combo kernel: Security Scaffold v1.0.0 initialized
+Jun 10 11:31:44 combo portmap: portmap startup succeeded
+Jun 10 11:31:44 combo kernel: SELinux:  Initializing.
+Jun 10 11:31:44 combo kernel: SELinux:  Starting in permissive mode
+Jun 10 11:31:44 combo kernel: There is already a security framework initialized, register_security failed.
+Jun 10 11:31:44 combo rpc.statd[1636]: Version 1.0.6 Starting
+Jun 10 11:31:44 combo kernel: Failure registering capabilities with the kernel
+Jun 10 11:31:44 combo nfslock: rpc.statd startup succeeded
+Jun 10 11:31:44 combo kernel: selinux_register_security:  Registering secondary module capability
+Jun 10 11:31:45 combo kernel: Capability LSM initialized
+Jun 10 11:31:45 combo kernel: Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)
+Jun 10 11:31:45 combo kernel: Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)
+Jun 10 11:31:45 combo kernel: Mount-cache hash table entries: 512 (order: 0, 4096 bytes)
+Jun 10 11:31:45 combo kernel: CPU: L1 I cache: 16K, L1 D cache: 16K
+Jun 10 11:31:45 combo kernel: CPU: L2 cache: 256K
+Jun 10 11:31:45 combo kernel: Intel machine check architecture supported.
+Jun 10 11:31:45 combo kernel: Intel machine check reporting enabled on CPU#0.
+Jun 10 11:31:45 combo kernel: CPU: Intel Pentium III (Coppermine) stepping 06
+Jun 10 11:31:45 combo rpcidmapd: rpc.idmapd startup succeeded
+Jun 10 11:31:45 combo kernel: Enabling fast FPU save and restore... done.
+Jun 10 11:31:45 combo kernel: Enabling unmasked SIMD FPU exception support... done.
+Jun 10 11:31:45 combo kernel: Checking 'hlt' instruction... OK.
+Jun 10 11:31:45 combo kernel: POSIX conformance testing by UNIFIX
+Jun 10 11:31:45 combo kernel: NET: Registered protocol family 16
+Jun 10 11:31:45 combo kernel: PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1
+Jun 10 11:31:45 combo kernel: PCI: Using configuration type 1
+Jun 10 11:31:45 combo kernel: mtrr: v2.0 (20020519)
+Jun 10 11:31:45 combo kernel: ACPI: Subsystem revision 20040326
+Jun 10 11:31:45 combo kernel: ACPI: Interpreter disabled.
+Jun 10 11:31:45 combo kernel: Linux Plug and Play Support v0.97 (c) Adam Belay
+Jun 10 11:31:45 combo kernel: usbcore: registered new driver usbfs
+Jun 10 11:31:45 combo random: Initializing random number generator:  succeeded
+Jun 10 11:31:45 combo kernel: usbcore: registered new driver hub
+Jun 10 11:31:45 combo kernel: ACPI: ACPI tables contain no PCI IRQ routing entries
+Jun 10 11:31:45 combo kernel: PCI: Invalid ACPI-PCI IRQ routing table
+Jun 10 11:31:45 combo kernel: PCI: Probing PCI hardware
+Jun 10 11:31:45 combo kernel: PCI: Probing PCI hardware (bus 00)
+Jun 10 11:31:45 combo rc: Starting pcmcia:  succeeded
+Jun 10 11:31:45 combo kernel: Transparent bridge - 0000:00:1e.0
+Jun 10 11:31:45 combo kernel: PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0
+Jun 10 11:31:45 combo kernel: apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)
+Jun 10 11:31:45 combo kernel: audit: initializing netlink socket (disabled)
+Jun 10 11:31:45 combo kernel: audit(1118403053.397:0): initialized
+Jun 10 11:31:45 combo kernel: Total HugeTLB memory allocated, 0
+Jun 10 11:31:45 combo kernel: VFS: Disk quotas dquot_6.5.1
+Jun 10 11:31:45 combo kernel: Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)
+Jun 10 11:31:45 combo kernel: SELinux:  Registering netfilter hooks
+Jun 10 11:31:45 combo kernel: Initializing Cryptographic API
+Jun 10 11:31:45 combo kernel: pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+Jun 10 11:31:45 combo kernel: isapnp: Scanning for PnP cards...
+Jun 10 11:31:41 combo sysctl: kernel.core_uses_pid = 1 
+Jun 10 11:31:46 combo kernel: isapnp: No Plug & Play device found
+Jun 10 11:31:46 combo hcid[1708]: HCI daemon ver 2.4 started
+Jun 10 11:31:46 combo bluetooth: hcid startup succeeded
+Jun 10 11:31:41 combo network: Setting network parameters:  succeeded 
+Jun 10 11:31:46 combo kernel: Real Time Clock Driver v1.12
+Jun 10 11:31:46 combo bluetooth: sdpd startup succeeded
+Jun 10 11:31:46 combo sdpd[1714]: sdpd v1.5 started 
+Jun 10 11:31:41 combo network: Bringing up loopback interface:  succeeded 
+Jun 10 11:31:46 combo kernel: Linux agpgart interface v0.100 (c) Dave Jones
+Jun 10 11:31:46 combo kernel: agpgart: Detected an Intel i810 E Chipset.
+Jun 10 11:31:46 combo kernel: agpgart: Maximum main memory to use for agp memory: 93M
+Jun 10 11:31:46 combo kernel: agpgart: detected 4MB dedicated video ram.
+Jun 10 11:31:46 combo kernel: agpgart: AGP aperture is 64M @ 0xf4000000
+Jun 10 11:31:46 combo kernel: Serial: 8250/16550 driver $Revision: 1.90 $ 8 ports, IRQ sharing enabled
+Jun 10 11:31:46 combo kernel: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+Jun 10 11:31:46 combo kernel: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+Jun 10 11:31:46 combo kernel: RAMDISK driver initialized: 16 RAM disks of 16384K size 1024 blocksize
+Jun 10 11:31:46 combo kernel: Uniform Multi-Platform E-IDE driver Revision: 7.00alpha2
+Jun 10 11:31:46 combo kernel: ide: Assuming 33MHz system bus speed for PIO modes; override with idebus=xx
+Jun 10 11:31:46 combo kernel: ICH: IDE controller at PCI slot 0000:00:1f.1
+Jun 10 11:31:46 combo kernel: ICH: chipset revision 2
+Jun 10 11:31:46 combo kernel: ICH: not 100%% native mode: will probe irqs later
+Jun 10 11:31:46 combo kernel:     ide0: BM-DMA at 0xffa0-0xffa7, BIOS settings: hda:DMA, hdb:pio
+Jun 10 11:31:46 combo kernel:     ide1: BM-DMA at 0xffa8-0xffaf, BIOS settings: hdc:DMA, hdd:pio
+Jun 10 11:31:46 combo kernel: hda: IBM-DTLA-307015, ATA DISK drive
+Jun 10 11:31:46 combo kernel: Using cfq io scheduler
+Jun 10 11:31:46 combo netfs: Mounting other filesystems:  succeeded
+Jun 10 11:31:46 combo kernel: ide0 at 0x1f0-0x1f7,0x3f6 on irq 14
+Jun 10 11:31:46 combo kernel: hdc: SAMSUNG CD-ROM SN-124, ATAPI CD/DVD-ROM drive
+Jun 10 11:31:47 combo kernel: hdc: Disabling (U)DMA for SAMSUNG CD-ROM SN-124 (blacklisted)
+Jun 10 11:31:47 combo kernel: ide1 at 0x170-0x177,0x376 on irq 15
+Jun 10 11:31:47 combo kernel: hda: max request size: 128KiB
+Jun 10 11:31:47 combo kernel: hda: 29336832 sectors (15020 MB) w/1916KiB Cache, CHS=29104/16/63, UDMA(66)
+Jun 10 11:31:47 combo kernel:  hda: hda1 hda2 hda3
+Jun 10 11:31:47 combo kernel: hdc: ATAPI 24X CD-ROM drive, 128kB Cache
+Jun 10 11:31:47 combo kernel: Uniform CD-ROM driver Revision: 3.20
+Jun 10 11:31:47 combo kernel: ide-floppy driver 0.99.newide
+Jun 10 11:31:47 combo kernel: usbcore: registered new driver hiddev
+Jun 10 11:31:47 combo apmd[1748]: Version 3.0.2 (APM BIOS 1.2, Linux driver 1.16ac)
+Jun 10 11:31:47 combo apmd: apmd startup succeeded
+Jun 10 11:31:47 combo kernel: usbcore: registered new driver hid
+Jun 10 11:31:47 combo kernel: drivers/usb/input/hid-core.c: v2.0:USB HID core driver
+Jun 10 11:31:47 combo kernel: mice: PS/2 mouse device common for all mice
+Jun 10 11:31:47 combo kernel: serio: i8042 AUX port at 0x60,0x64 irq 12
+Jun 10 11:31:47 combo kernel: input: ImPS/2 Logitech Wheel Mouse on isa0060/serio1
+Jun 10 11:31:47 combo kernel: serio: i8042 KBD port at 0x60,0x64 irq 1
+Jun 10 11:31:47 combo kernel: input: AT Translated Set 2 keyboard on isa0060/serio0
+Jun 10 11:31:47 combo kernel: md: md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27
+Jun 10 11:31:47 combo kernel: NET: Registered protocol family 2
+Jun 10 11:31:47 combo kernel: IP: routing cache hash table of 512 buckets, 4Kbytes
+Jun 10 11:31:47 combo kernel: TCP: Hash tables configured (established 8192 bind 16384)
+Jun 10 11:31:47 combo kernel: Initializing IPsec netlink socket
+Jun 10 11:31:47 combo kernel: NET: Registered protocol family 1
+Jun 10 11:31:47 combo kernel: NET: Registered protocol family 17
+Jun 10 11:31:47 combo autofs: automount startup succeeded
+Jun 10 11:31:47 combo kernel: checking if image is initramfs...it isn't (no cpio magic); looks like an initrd
+Jun 10 11:31:47 combo kernel: Freeing initrd memory: 186k freed
+Jun 10 11:31:47 combo kernel: md: Autodetecting RAID arrays.
+Jun 10 11:31:47 combo kernel: md: autorun ...
+Jun 10 11:31:47 combo kernel: md: ... autorun DONE.
+Jun 10 11:31:47 combo smartd[1786]: smartd version 5.21 Copyright (C) 2002-3 Bruce Allen 
+Jun 10 11:31:47 combo kernel: RAMDISK: Compressed image found at block 0
+Jun 10 11:31:47 combo smartd[1786]: Home page is http://smartmontools.sourceforge.net/  
+Jun 10 11:31:47 combo kernel: VFS: Mounted root (ext2 filesystem).
+Jun 10 11:31:47 combo smartd[1786]: Opened configuration file /etc/smartd.conf 
+Jun 10 11:31:47 combo kernel: EXT3-fs: INFO: recovery required on readonly filesystem.
+Jun 10 11:31:47 combo smartd[1786]: Configuration file /etc/smartd.conf parsed. 
+Jun 10 11:31:47 combo kernel: EXT3-fs: write access will be enabled during recovery.
+Jun 10 11:31:47 combo smartd[1786]: Device: /dev/hda, opened 
+Jun 10 11:31:47 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun 10 11:31:47 combo smartd[1786]: Device: /dev/hda, found in smartd database. 
+Jun 10 11:31:47 combo kernel: EXT3-fs: recovery complete.
+Jun 10 11:31:48 combo smartd[1786]: Device: /dev/hda, is SMART capable. Adding to "monitor" list. 
+Jun 10 11:31:48 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun 10 11:31:48 combo smartd[1786]: Monitoring 1 ATA and 0 SCSI devices 
+Jun 10 11:31:48 combo kernel: Freeing unused kernel memory: 144k freed
+Jun 10 11:31:48 combo apmd[1748]: Charge: * * * (-1% unknown)
+Jun 10 11:31:48 combo smartd[1788]: smartd has fork()ed into background mode. New PID=1788. 
+Jun 10 11:31:48 combo smartd: smartd startup succeeded
+Jun 10 11:31:48 combo kernel: SELinux:  Disabled at runtime.
+Jun 10 11:31:48 combo kernel: SELinux:  Unregistering netfilter hooks
+Jun 10 11:31:48 combo kernel: NET: Registered protocol family 10
+Jun 10 11:31:48 combo kernel: Disabled Privacy Extensions on device 022db720(lo)
+Jun 10 11:31:48 combo kernel: IPv6 over IPv4 tunneling driver
+Jun 10 11:31:49 combo kernel: USB Universal Host Controller Interface driver v2.2
+Jun 10 11:31:49 combo kernel: PCI: Found IRQ 11 for device 0000:00:1f.2
+Jun 10 11:31:49 combo kernel: uhci_hcd 0000:00:1f.2: UHCI Host Controller
+Jun 10 11:31:49 combo kernel: uhci_hcd 0000:00:1f.2: irq 11, io base 0000ff80
+Jun 10 11:31:49 combo kernel: uhci_hcd 0000:00:1f.2: new USB bus registered, assigned bus number 1
+Jun 10 11:31:49 combo kernel: hub 1-0:1.0: USB hub found
+Jun 10 11:31:49 combo kernel: hub 1-0:1.0: 2 ports detected
+Jun 10 11:31:49 combo rc: Starting hpoj:  succeeded
+Jun 10 11:31:49 combo kernel: EXT3 FS on hda2, internal journal
+Jun 10 11:31:49 combo kernel: device-mapper: 4.1.0-ioctl (2003-12-10) initialised: dm@uk.sistina.com
+Jun 10 11:31:49 combo kernel: cdrom: open failed.
+Jun 10 11:31:50 combo kernel: Adding 262072k swap on /dev/hda3.  Priority:-1 extents:1
+Jun 10 11:31:50 combo kernel: kjournald starting.  Commit interval 5 seconds
+Jun 10 11:31:50 combo kernel: EXT3 FS on hda1, internal journal
+Jun 10 11:31:50 combo kernel: EXT3-fs: mounted filesystem with ordered data mode.
+Jun 10 11:31:50 combo kernel: IA-32 Microcode Update Driver: v1.13 <tigran@veritas.com>
+Jun 10 11:31:50 combo kernel: microcode: CPU0 already at revision 0x8 (current=0x8)
+Jun 10 11:31:51 combo kernel: microcode: No suitable data for cpu 0
+Jun 10 11:31:51 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun 10 11:31:51 combo kernel: parport0: irq 7 detected
+Jun 10 11:31:51 combo kernel: SCSI subsystem initialized
+Jun 10 11:31:51 combo kernel: inserting floppy driver for 2.6.5-1.358
+Jun 10 11:31:51 combo kernel: Floppy drive(s): fd0 is 1.44M
+Jun 10 11:31:52 combo kernel: FDC 0 is a National Semiconductor PC87306
+Jun 10 11:31:52 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun 10 11:31:52 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun 10 11:31:52 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun 10 11:31:52 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun 10 11:31:53 combo kernel: PCI: Found IRQ 5 for device 0000:01:0c.0
+Jun 10 11:31:53 combo kernel: 3c59x: Donald Becker and others. www.scyld.com/network/vortex.html
+Jun 10 11:31:53 combo kernel: 0000:01:0c.0: 3Com PCI 3c905C Tornado at 0xec80. Vers LK1.1.19
+Jun 10 11:31:54 combo kernel: ip_tables: (C) 2000-2002 Netfilter core team
+Jun 10 11:31:54 combo kernel: process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT
+Jun 10 11:31:54 combo kernel: Bluetooth: Core ver 2.4
+Jun 10 11:31:54 combo kernel: NET: Registered protocol family 31
+Jun 10 11:31:54 combo kernel: Bluetooth: HCI device and connection manager initialized
+Jun 10 11:31:54 combo kernel: Bluetooth: HCI socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: L2CAP ver 2.1
+Jun 10 11:31:55 combo kernel: Bluetooth: L2CAP socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM ver 1.2
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM socket layer initialized
+Jun 10 11:31:55 combo kernel: Bluetooth: RFCOMM TTY layer initialized
+Jun 10 11:31:58 combo kernel: parport0: PC-style at 0x378 (0x778) [PCSPP,TRISTATE,EPP]
+Jun 10 11:31:58 combo kernel: parport0: irq 7 detected
+Jun 10 11:31:58 combo kernel: lp0: using parport0 (polling).
+Jun 10 11:31:58 combo kernel: lp0: console ready
+Jun 10 11:32:00 combo cups: cupsd startup succeeded
+Jun 10 11:32:00 combo sshd:  succeeded
+Jun 10 11:32:00 combo xinetd: xinetd startup succeeded
+Jun 10 11:32:01 combo sendmail: sendmail startup succeeded
+Jun 10 11:32:01 combo sendmail: sm-client startup succeeded
+Jun 10 11:32:02 combo xinetd[2034]: No such internal service: services/stream - DISABLING
+Jun 10 11:32:03 combo xinetd[2034]: bind failed (Address already in use (errno = 98)). service = telnet
+Jun 10 11:32:03 combo xinetd[2034]: Service telnet failed to start and is deactivated.
+Jun 10 11:32:03 combo xinetd[2034]: xinetd Version 2.3.13 started with libwrap loadavg options compiled in.
+Jun 10 11:32:03 combo xinetd[2034]: Started working: 30 available services
+Jun 10 11:32:05 combo spamassassin: spamd startup succeeded
+Jun 10 11:32:05 combo privoxy: Jun 10 11:32:05 Privoxy(-150769536) Info: loading configuration file '/etc/privoxy/config':
+Jun 10 11:32:06 combo privoxy: privoxy startup succeeded
+Jun 10 11:32:06 combo gpm[2094]: *** info [startup.c(95)]: 
+Jun 10 11:32:06 combo gpm[2094]: Started gpm successfully. Entered daemon mode.
+Jun 10 11:32:07 combo gpm[2094]: *** info [mice.c(1766)]: 
+Jun 10 11:32:07 combo gpm[2094]: imps2: Auto-detected intellimouse PS/2
+Jun 10 11:32:07 combo gpm: gpm startup succeeded
+Jun 10 11:32:07 combo su(pam_unix)[2103]: session opened for user htt by (uid=0)
+Jun 10 11:32:07 combo su(pam_unix)[2103]: session closed for user htt
+Jun 10 11:32:07 combo IIim: htt startup succeeded
+Jun 10 11:32:08 combo udev[2118]: creating device node '/udev/lp0'
+Jun 10 11:32:09 combo htt_server[2106]: started.
+Jun 10 11:32:10 combo canna:  succeeded
+Jun 10 11:32:10 combo crond: crond startup succeeded
+Jun 10 11:32:12 combo xfs: xfs startup succeeded
+Jun 10 11:32:12 combo anacron: anacron startup succeeded
+Jun 10 11:32:12 combo atd: atd startup succeeded
+Jun 10 11:32:12 combo readahead: Starting background readahead: 
+Jun 10 11:32:13 combo rc: Starting readahead:  succeeded
+Jun 10 11:32:14 combo messagebus: messagebus startup succeeded
+Jun 10 11:32:26 combo httpd: httpd startup succeeded
+Jun 10 11:32:28 combo squid[2292]: Squid Parent: child process 2295 started
+Jun 10 15:32:33 combo named[2306]: starting BIND 9.2.3 -u named -t /var/named/chroot
+Jun 10 15:32:33 combo named[2306]: using 1 CPU
+Jun 10 11:32:34 combo named: named startup succeeded
+Jun 10 15:32:34 combo named[2306]: loading configuration from '/etc/named.conf'
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface lo, 127.0.0.1#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0, 63.126.79.67#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:1, 63.126.79.69#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:2, 63.126.79.70#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:3, 63.126.79.71#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:4, 63.126.79.72#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:5, 63.126.79.73#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:6, 63.126.79.75#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:7, 63.126.79.80#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:8, 63.126.79.81#53
+Jun 10 15:32:34 combo named[2306]: listening on IPv4 interface eth0:9, 63.126.79.82#53
+Jun 10 15:32:35 combo named[2306]: listening on IPv4 interface eth0:10, 63.126.79.83#53
+Jun 10 15:32:35 combo named[2306]: listening on IPv4 interface eth0:11, 63.126.79.84#53
+Jun 10 11:32:36 combo snmpd: snmpd startup succeeded
+Jun 10 15:32:36 combo named[2306]: listening on IPv4 interface eth0:12, 63.126.79.85#53
+Jun 10 15:32:37 combo named[2306]: listening on IPv4 interface eth0:13, 63.126.79.87#53
+Jun 10 11:32:37 combo ntpd[2327]: ntpd 4.2.0@1.1161-r Thu Mar 11 11:46:39 EST 2004 (1)
+Jun 10 11:32:37 combo ntpd: ntpd startup succeeded
+Jun 10 11:32:37 combo snmpd[2318]: NET-SNMP version 5.1.1 
+Jun 10 15:32:38 combo named[2306]: listening on IPv4 interface eth0:14, 63.126.79.89#53
+Jun 10 11:32:39 combo ntpd[2327]: precision = 2.000 usec
+Jun 10 15:32:40 combo named[2306]: listening on IPv4 interface eth0:15, 63.126.79.90#53
+Jun 10 11:32:40 combo ntpd[2327]: kernel time sync status 0040
+Jun 10 15:32:40 combo named[2306]: listening on IPv4 interface eth0:16, 63.126.79.95#53
+Jun 10 11:32:41 combo ntpd[2327]: frequency initialized 0.000 PPM from /var/lib/ntp/drift
+Jun 10 15:32:41 combo named[2306]: listening on IPv4 interface eth0:17, 63.126.79.100#53
+Jun 10 11:32:42 combo ntpd[2327]: configure: keyword "authenticate" unknown, line ignored
+Jun 10 15:32:42 combo named[2306]: listening on IPv4 interface eth0:18, 63.126.79.105#53
+Jun 10 15:32:43 combo named[2306]: listening on IPv4 interface eth0:19, 63.126.79.110#53
+Jun 10 15:32:43 combo named[2306]: listening on IPv4 interface eth0:20, 63.126.79.115#53
+Jun 10 15:32:44 combo named[2306]: listening on IPv4 interface eth0:21, 63.126.79.120#53
+Jun 10 15:32:45 combo named[2306]: listening on IPv4 interface eth0:22, 63.126.79.125#53
+Jun 10 15:32:45 combo named[2306]: couldn't add command channel 127.0.0.1#953: not found
+Jun 10 15:32:45 combo named[2306]: couldn't add command channel ::1#953: not found
+Jun 10 11:32:45 combo mysqld: Starting MySQL:  succeeded
+Jun 10 15:32:46 combo named[2306]: running
+Jun 10 11:32:46 combo rsyncd[2394]: rsyncd version 2.6.2 starting, listening on port 873 
+Jun 10 11:32:47 combo mdmonitor: mdadm succeeded
+Jun 10 11:32:47 combo mdmpd: mdmpd failed
+Jun 10 11:32:48 combo udev[2517]: creating device node '/udev/vcs4'
+Jun 10 11:32:48 combo udev[2524]: creating device node '/udev/vcsa4'
+Jun 10 11:32:48 combo udev[2516]: creating device node '/udev/vcs5'
+Jun 10 11:32:48 combo udev[2518]: creating device node '/udev/vcsa5'
+Jun 10 11:32:48 combo udev[2580]: creating device node '/udev/vcs3'
+Jun 10 11:32:48 combo udev[2581]: creating device node '/udev/vcsa3'
+Jun 10 11:32:48 combo udev[2582]: creating device node '/udev/vcs2'
+Jun 10 11:32:48 combo udev[2583]: creating device node '/udev/vcsa2'
+Jun 10 11:32:49 combo udev[2652]: removing device node '/udev/vcsa3'
+Jun 10 11:32:49 combo udev[2650]: removing device node '/udev/vcsa5'
+Jun 10 11:32:49 combo udev[2648]: removing device node '/udev/vcsa4'
+Jun 10 11:32:49 combo udev[2649]: removing device node '/udev/vcs4'
+Jun 10 11:32:49 combo udev[2647]: removing device node '/udev/vcs5'
+Jun 10 11:32:49 combo udev[2651]: removing device node '/udev/vcs3'
+Jun 10 11:32:49 combo udev[2681]: removing device node '/udev/vcs2'
+Jun 10 11:32:49 combo udev[2693]: removing device node '/udev/vcsa2'
+Jun 10 11:32:49 combo udev[2590]: creating device node '/udev/vcs6'
+Jun 10 11:32:49 combo udev[2597]: creating device node '/udev/vcsa6'
+Jun 10 11:32:49 combo udev[2699]: creating device node '/udev/vcsa3'
+Jun 10 11:32:49 combo udev[2701]: creating device node '/udev/vcsa5'
+Jun 10 11:32:50 combo udev[2706]: creating device node '/udev/vcsa4'
+Jun 10 11:32:50 combo udev[2719]: creating device node '/udev/vcs4'
+Jun 10 11:32:50 combo udev[2722]: creating device node '/udev/vcs5'
+Jun 10 11:32:50 combo udev[2724]: creating device node '/udev/vcs3'
+Jun 10 11:32:50 combo udev[2729]: creating device node '/udev/vcs2'
+Jun 10 11:32:50 combo udev[2736]: creating device node '/udev/vcsa2'
+Jun 10 11:32:50 combo udev[2746]: removing device node '/udev/vcs6'
+Jun 10 11:32:51 combo udev[2755]: removing device node '/udev/vcsa6'
+Jun 10 11:32:52 combo udev[2792]: creating device node '/udev/vcs6'
+Jun 10 11:32:52 combo udev[2793]: creating device node '/udev/vcsa6'
+Jun 10 11:32:54 combo udev[2817]: creating device node '/udev/vcs7'
+Jun 10 11:32:54 combo udev[2818]: creating device node '/udev/vcsa7'
+Jun 10 11:32:55 combo udev[2833]: removing device node '/udev/vcs7'
+Jun 10 11:32:55 combo udev[2844]: removing device node '/udev/vcsa7'
+Jun 10 11:32:58 combo udev[2862]: creating device node '/udev/vcsa7'
+Jun 10 11:32:58 combo udev[2855]: creating device node '/udev/vcs7'
+Jun 10 11:35:57 combo ntpd[2327]: synchronized to LOCAL(0), stratum=10
+Jun 10 11:35:57 combo ntpd[2327]: kernel time sync disabled 0041
+Jun 10 11:37:02 combo ntpd[2327]: kernel time sync enabled 0001
+Jun 10 17:16:34 combo sshd(pam_unix)[3353]: check pass; user unknown
+Jun 10 17:16:34 combo sshd(pam_unix)[3353]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=itsc.iasi.astral.ro 
+Jun 11 03:28:22 combo ftpd[4301]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4305]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4304]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4308]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4303]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4306]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4302]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:22 combo ftpd[4307]: connection from 209.184.7.130 () at Sat Jun 11 03:28:22 2005 
+Jun 11 03:28:23 combo ftpd[4309]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4310]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4311]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4312]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4313]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4314]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4315]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4317]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4318]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4319]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4316]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:23 combo ftpd[4320]: connection from 209.184.7.130 () at Sat Jun 11 03:28:23 2005 
+Jun 11 03:28:24 combo ftpd[4321]: connection from 209.184.7.130 () at Sat Jun 11 03:28:24 2005 
+Jun 11 03:28:24 combo ftpd[4322]: connection from 209.184.7.130 () at Sat Jun 11 03:28:24 2005 
+Jun 11 03:28:25 combo ftpd[4323]: connection from 209.184.7.130 () at Sat Jun 11 03:28:25 2005 
+Jun 11 04:02:32 combo xinetd[2034]: file descriptor of service comsat has been closed
+Jun 11 04:02:32 combo xinetd[2034]: select reported EBADF but no bad file descriptors were found
+Jun 11 04:03:18 combo su(pam_unix)[4718]: session opened for user cyrus by (uid=0)
+Jun 11 04:03:19 combo su(pam_unix)[4718]: session closed for user cyrus
+Jun 11 04:03:20 combo logrotate: ALERT exited abnormally with [1]
+Jun 11 04:09:52 combo su(pam_unix)[5961]: session opened for user news by (uid=0)
+Jun 11 04:09:53 combo su(pam_unix)[5961]: session closed for user news
+Jun 11 09:45:45 combo sshd(pam_unix)[6472]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:45:55 combo sshd(pam_unix)[6474]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:45:58 combo sshd(pam_unix)[6476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:01 combo sshd(pam_unix)[6478]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:05 combo sshd(pam_unix)[6480]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:08 combo sshd(pam_unix)[6482]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:11 combo sshd(pam_unix)[6484]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:15 combo sshd(pam_unix)[6486]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:18 combo sshd(pam_unix)[6488]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:21 combo sshd(pam_unix)[6490]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:25 combo sshd(pam_unix)[6492]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:28 combo sshd(pam_unix)[6494]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:31 combo sshd(pam_unix)[6496]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:34 combo sshd(pam_unix)[6498]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:35 combo sshd(pam_unix)[6500]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:38 combo sshd(pam_unix)[6502]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:38 combo sshd(pam_unix)[6504]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:41 combo sshd(pam_unix)[6506]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:44 combo sshd(pam_unix)[6508]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:45 combo sshd(pam_unix)[6510]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:47 combo sshd(pam_unix)[6512]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:48 combo sshd(pam_unix)[6514]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 11 09:46:48 combo sshd(pam_unix)[6516]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=unknown.sagonet.net  user=root
+Jun 12 00:07:45 combo ftpd[7722]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7724]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7725]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7723]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7726]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7718]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7721]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7719]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7720]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7714]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7709]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7711]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7710]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7712]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7713]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7716]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7717]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:45 combo ftpd[7715]: connection from 222.33.90.199 () at Sun Jun 12 00:07:45 2005 
+Jun 12 00:07:46 combo ftpd[7728]: connection from 222.33.90.199 () at Sun Jun 12 00:07:46 2005 
+Jun 12 00:07:46 combo ftpd[7729]: connection from 222.33.90.199 () at Sun Jun 12 00:07:46 2005 
+Jun 12 00:07:46 combo ftpd[7730]: connection from 222.33.90.199 () at Sun Jun 12 00:07:46 2005 
+Jun 12 00:07:46 combo ftpd[7727]: connection from 222.33.90.199 () at Sun Jun 12 00:07:46 2005 
+Jun 12 00:07:46 combo ftpd[7731]: connection from 222.33.90.199 () at Sun Jun 12 00:07:46 2005 
+Jun 12 01:12:13 combo sshd(pam_unix)[7822]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:13 combo sshd(pam_unix)[7823]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:13 combo sshd(pam_unix)[7821]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:14 combo sshd(pam_unix)[7826]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:14 combo sshd(pam_unix)[7828]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:17 combo sshd(pam_unix)[7831]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:18 combo sshd(pam_unix)[7832]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:21 combo sshd(pam_unix)[7835]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:22 combo sshd(pam_unix)[7837]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:22 combo sshd(pam_unix)[7839]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:12:27 combo sshd(pam_unix)[7841]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:15:17 combo sshd(pam_unix)[7847]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 01:15:23 combo sshd(pam_unix)[7849]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4  user=test
+Jun 12 02:30:22 combo sshd(pam_unix)[7954]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.241.200  user=guest
+Jun 12 04:04:06 combo su(pam_unix)[8486]: session opened for user cyrus by (uid=0)
+Jun 12 04:04:07 combo su(pam_unix)[8486]: session closed for user cyrus
+Jun 12 04:04:09 combo cups: cupsd shutdown succeeded
+Jun 12 04:04:15 combo cups: cupsd startup succeeded

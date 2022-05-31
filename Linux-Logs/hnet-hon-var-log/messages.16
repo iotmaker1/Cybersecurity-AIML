@@ -1,0 +1,293 @@
+Oct  2 04:06:40 combo syslogd 1.4.1: restart.
+Oct  2 04:06:39 combo logrotate: ALERT exited abnormally with [1]
+Oct  2 04:12:54 combo su(pam_unix)[15988]: session opened for user news by (uid=0)
+Oct  2 04:12:54 combo su(pam_unix)[15988]: session closed for user news
+Oct  2 10:12:36 combo sshd(pam_unix)[19633]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19643]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19642]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19639]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19641]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19640]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19638]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:37 combo sshd(pam_unix)[19637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:38 combo sshd(pam_unix)[19636]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  2 10:12:38 combo sshd(pam_unix)[19635]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.75.224.23  user=root
+Oct  3 04:05:42 combo su(pam_unix)[21522]: session opened for user cyrus by (uid=0)
+Oct  3 04:05:42 combo su(pam_unix)[21522]: session closed for user cyrus
+Oct  3 04:05:43 combo logrotate: ALERT exited abnormally with [1]
+Oct  3 04:13:12 combo su(pam_unix)[26169]: session opened for user news by (uid=0)
+Oct  3 04:13:13 combo su(pam_unix)[26169]: session closed for user news
+Oct  3 12:13:08 combo sshd(pam_unix)[28071]: check pass; user unknown
+Oct  3 12:13:08 combo sshd(pam_unix)[28071]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.shatura.com 
+Oct  3 12:13:08 combo sshd(pam_unix)[28070]: check pass; user unknown
+Oct  3 12:13:08 combo sshd(pam_unix)[28070]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=www.shatura.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3589]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3589]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3591]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3591]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3590]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3590]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3596]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3596]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3594]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3594]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3592]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3592]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3588]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3593]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3587]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3595]: check pass; user unknown
+Oct  3 17:52:41 combo sshd(pam_unix)[3588]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3593]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3587]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:41 combo sshd(pam_unix)[3595]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:54 combo sshd(pam_unix)[3609]: check pass; user unknown
+Oct  3 17:52:54 combo sshd(pam_unix)[3609]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:55 combo sshd(pam_unix)[3611]: check pass; user unknown
+Oct  3 17:52:55 combo sshd(pam_unix)[3611]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:52:59 combo sshd(pam_unix)[3613]: check pass; user unknown
+Oct  3 17:52:59 combo sshd(pam_unix)[3613]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:00 combo sshd(pam_unix)[3615]: check pass; user unknown
+Oct  3 17:53:00 combo sshd(pam_unix)[3615]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:02 combo sshd(pam_unix)[3617]: check pass; user unknown
+Oct  3 17:53:02 combo sshd(pam_unix)[3617]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:02 combo sshd(pam_unix)[3618]: check pass; user unknown
+Oct  3 17:53:02 combo sshd(pam_unix)[3618]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:03 combo sshd(pam_unix)[3622]: check pass; user unknown
+Oct  3 17:53:03 combo sshd(pam_unix)[3622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:03 combo sshd(pam_unix)[3621]: check pass; user unknown
+Oct  3 17:53:03 combo sshd(pam_unix)[3621]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:53:08 combo sshd(pam_unix)[3625]: check pass; user unknown
+Oct  3 17:53:08 combo sshd(pam_unix)[3625]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 17:59:23 combo sshd(pam_unix)[3675]: check pass; user unknown
+Oct  3 17:59:23 combo sshd(pam_unix)[3675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  3 23:22:25 combo ftpd[11051]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  3 23:22:25 combo ftpd[11052]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  3 23:22:25 combo ftpd[11054]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  3 23:22:25 combo ftpd[11053]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  3 23:22:25 combo ftpd[11056]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  3 23:22:25 combo ftpd[11055]: connection from 217.189.178.104 (ulm9-d9bdb268.pool.mediaWays.net) at Mon Oct  3 23:22:25 2005 
+Oct  4 04:03:56 combo su(pam_unix)[19489]: session opened for user cyrus by (uid=0)
+Oct  4 04:03:59 combo su(pam_unix)[19489]: session closed for user cyrus
+Oct  4 04:04:05 combo logrotate: ALERT exited abnormally with [1]
+Oct  4 04:26:37 combo su(pam_unix)[20313]: session opened for user news by (uid=0)
+Oct  4 04:26:42 combo su(pam_unix)[20313]: session closed for user news
+Oct  4 05:20:10 combo sshd(pam_unix)[21659]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21659]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21656]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21656]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21666]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21666]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21661]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21661]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21675]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21675]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21658]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21677]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21676]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21657]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21678]: check pass; user unknown
+Oct  4 05:20:10 combo sshd(pam_unix)[21677]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21658]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21676]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21657]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:20:10 combo sshd(pam_unix)[21678]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ponteix.ssd.sk.ca 
+Oct  4 05:37:31 combo sshd(pam_unix)[22004]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:31 combo sshd(pam_unix)[22006]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:31 combo sshd(pam_unix)[22007]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:31 combo sshd(pam_unix)[22009]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:31 combo sshd(pam_unix)[22008]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:32 combo sshd(pam_unix)[22011]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:32 combo sshd(pam_unix)[22010]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 05:37:32 combo sshd(pam_unix)[22013]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=164.100.149.66  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22332]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22334]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22330]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:32 combo sshd(pam_unix)[22329]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22340]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22341]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22344]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22345]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:33 combo sshd(pam_unix)[22342]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:07:34 combo sshd(pam_unix)[22350]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 06:40:28 combo sshd(pam_unix)[22889]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22889]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:28 combo sshd(pam_unix)[22888]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22888]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:28 combo sshd(pam_unix)[22886]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22886]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:28 combo sshd(pam_unix)[22890]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22890]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:28 combo sshd(pam_unix)[22891]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22891]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:28 combo sshd(pam_unix)[22887]: check pass; user unknown
+Oct  4 06:40:28 combo sshd(pam_unix)[22887]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:29 combo sshd(pam_unix)[22898]: check pass; user unknown
+Oct  4 06:40:29 combo sshd(pam_unix)[22898]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:29 combo sshd(pam_unix)[22899]: check pass; user unknown
+Oct  4 06:40:29 combo sshd(pam_unix)[22899]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:29 combo sshd(pam_unix)[22900]: check pass; user unknown
+Oct  4 06:40:29 combo sshd(pam_unix)[22900]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:38 combo sshd(pam_unix)[22904]: check pass; user unknown
+Oct  4 06:40:38 combo sshd(pam_unix)[22904]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:48 combo sshd(pam_unix)[22909]: check pass; user unknown
+Oct  4 06:40:48 combo sshd(pam_unix)[22909]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:48 combo sshd(pam_unix)[22911]: check pass; user unknown
+Oct  4 06:40:48 combo sshd(pam_unix)[22911]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:49 combo sshd(pam_unix)[22915]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22915]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:49 combo sshd(pam_unix)[22914]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22914]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:49 combo sshd(pam_unix)[22913]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22913]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:49 combo sshd(pam_unix)[22917]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22917]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:49 combo sshd(pam_unix)[22921]: check pass; user unknown
+Oct  4 06:40:49 combo sshd(pam_unix)[22921]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:50 combo sshd(pam_unix)[22916]: check pass; user unknown
+Oct  4 06:40:50 combo sshd(pam_unix)[22916]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 06:40:50 combo sshd(pam_unix)[22918]: check pass; user unknown
+Oct  4 06:40:50 combo sshd(pam_unix)[22918]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=secure.vision-xxl.com 
+Oct  4 07:59:23 combo sshd(pam_unix)[24234]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24236]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24238]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24237]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24241]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24239]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 07:59:25 combo sshd(pam_unix)[24240]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=host123-105.pool8288.interbusiness.it  user=root
+Oct  4 08:36:51 combo sshd(pam_unix)[24466]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:54 combo sshd(pam_unix)[24468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:54 combo sshd(pam_unix)[24472]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:55 combo sshd(pam_unix)[24469]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:56 combo sshd(pam_unix)[24474]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:56 combo sshd(pam_unix)[24476]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:57 combo sshd(pam_unix)[24477]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:57 combo sshd(pam_unix)[24482]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:57 combo sshd(pam_unix)[24483]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  4 08:36:58 combo sshd(pam_unix)[24486]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=146.164.89.10  user=nobody
+Oct  5 04:09:33 combo su(pam_unix)[26558]: session opened for user cyrus by (uid=0)
+Oct  5 04:09:34 combo su(pam_unix)[26558]: session closed for user cyrus
+Oct  5 04:09:35 combo logrotate: ALERT exited abnormally with [1]
+Oct  5 04:17:03 combo su(pam_unix)[27790]: session opened for user news by (uid=0)
+Oct  5 04:17:04 combo su(pam_unix)[27790]: session closed for user news
+Oct  5 12:47:26 combo sshd(pam_unix)[28547]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=216.138.177.216  user=root
+Oct  6 04:03:16 combo su(pam_unix)[30174]: session opened for user cyrus by (uid=0)
+Oct  6 04:03:16 combo su(pam_unix)[30174]: session closed for user cyrus
+Oct  6 04:03:17 combo logrotate: ALERT exited abnormally with [1]
+Oct  6 04:10:49 combo su(pam_unix)[30551]: session opened for user news by (uid=0)
+Oct  6 04:10:50 combo su(pam_unix)[30551]: session closed for user news
+Oct  6 05:46:38 combo sshd(pam_unix)[30723]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:38 combo sshd(pam_unix)[30726]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:39 combo sshd(pam_unix)[30728]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:39 combo sshd(pam_unix)[30729]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:41 combo sshd(pam_unix)[30725]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:41 combo sshd(pam_unix)[30731]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:42 combo sshd(pam_unix)[30739]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:42 combo sshd(pam_unix)[30735]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:42 combo sshd(pam_unix)[30736]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  6 05:46:42 combo sshd(pam_unix)[30738]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.39.240.228  user=root
+Oct  7 03:12:27 combo ftpd[32656]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32658]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32647]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32652]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32650]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32645]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32651]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32649]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32657]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32654]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32646]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32648]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32653]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32644]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:27 combo ftpd[32655]: connection from 211.107.232.1 () at Fri Oct  7 03:12:27 2005 
+Oct  7 03:12:28 combo ftpd[32659]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32660]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32662]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32661]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32666]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32664]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32665]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 03:12:28 combo ftpd[32663]: connection from 211.107.232.1 () at Fri Oct  7 03:12:28 2005 
+Oct  7 04:03:52 combo su(pam_unix)[614]: session opened for user cyrus by (uid=0)
+Oct  7 04:03:52 combo su(pam_unix)[614]: session closed for user cyrus
+Oct  7 04:03:53 combo logrotate: ALERT exited abnormally with [1]
+Oct  7 04:14:29 combo su(pam_unix)[1860]: session opened for user news by (uid=0)
+Oct  7 04:14:30 combo su(pam_unix)[1860]: session closed for user news
+Oct  7 18:52:31 combo sshd(pam_unix)[3231]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct  7 18:52:31 combo sshd(pam_unix)[3229]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct  7 18:52:33 combo sshd(pam_unix)[3237]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct  7 18:52:33 combo sshd(pam_unix)[3238]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct  7 18:52:34 combo sshd(pam_unix)[3239]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=coldea.teleson.ro  user=guest
+Oct  7 18:53:03 combo sshd(pam_unix)[3245]: session opened for user test by (uid=509)
+Oct  7 18:53:39 combo passwd(pam_unix)[3275]: password changed for test
+Oct  7 18:54:06 combo sshd(pam_unix)[3276]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:54:21 combo sshd(pam_unix)[3276]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:54:53 combo sshd(pam_unix)[3280]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:55:01 combo sshd(pam_unix)[3280]: 1 more authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:55:27 combo sshd(pam_unix)[3287]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:55:51 combo sshd(pam_unix)[3289]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 18:55:53 combo sshd(pam_unix)[3291]: session opened for user test by (uid=509)
+Oct  7 18:56:01 combo sshd(pam_unix)[3318]: session opened for user test by (uid=509)
+Oct  7 18:56:26 combo sshd(pam_unix)[3318]: session closed for user test
+Oct  7 18:56:31 combo sshd(pam_unix)[3291]: session closed for user test
+Oct  7 19:28:00 combo sshd(pam_unix)[3433]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=bozesan.teleson.ro  user=test
+Oct  7 19:28:09 combo sshd(pam_unix)[3435]: session opened for user test by (uid=509)
+Oct  7 19:40:55 combo sshd(pam_unix)[3245]: session closed for user test
+Oct  7 19:40:55 combo sshd(pam_unix)[3435]: session closed for user test
+Oct  8 00:57:03 combo sshd(pam_unix)[4006]: session opened for user test by (uid=509)
+Oct  8 01:10:27 combo sshd(pam_unix)[4089]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=maior.teleson.ro  user=info
+Oct  8 01:10:33 combo sshd(pam_unix)[4098]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=maior.teleson.ro  user=webmaster
+Oct  8 01:50:28 combo sshd(pam_unix)[4006]: session closed for user test
+Oct  8 04:07:19 combo su(pam_unix)[4734]: session opened for user cyrus by (uid=0)
+Oct  8 04:07:20 combo su(pam_unix)[4734]: session closed for user cyrus
+Oct  8 04:07:21 combo logrotate: ALERT exited abnormally with [1]
+Oct  8 04:24:49 combo su(pam_unix)[5135]: session opened for user news by (uid=0)
+Oct  8 04:24:50 combo su(pam_unix)[5135]: session closed for user news
+Oct  8 04:44:37 combo sshd(pam_unix)[5219]: session opened for user test by (uid=509)
+Oct  8 06:58:49 combo sshd(pam_unix)[5219]: session closed for user test
+Oct  8 13:17:00 combo sshd(pam_unix)[6216]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6216]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6225]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6225]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6228]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6228]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6220]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6220]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6234]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6234]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6227]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6227]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6218]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6215]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6226]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6219]: check pass; user unknown
+Oct  8 13:17:00 combo sshd(pam_unix)[6218]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6215]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6226]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 13:17:00 combo sshd(pam_unix)[6219]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=test.mtc.ntnu.edu.tw 
+Oct  8 22:31:29 combo ftpd[7482]: connection from 64.34.92.187 () at Sat Oct  8 22:31:29 2005 
+Oct  8 22:31:29 combo ftpd[7485]: connection from 64.34.92.187 () at Sat Oct  8 22:31:29 2005 
+Oct  8 22:31:29 combo ftpd[7481]: connection from 64.34.92.187 () at Sat Oct  8 22:31:29 2005 
+Oct  8 22:31:29 combo ftpd[7484]: connection from 64.34.92.187 () at Sat Oct  8 22:31:29 2005 
+Oct  8 22:31:29 combo ftpd[7483]: connection from 64.34.92.187 () at Sat Oct  8 22:31:29 2005 
+Oct  8 22:31:30 combo ftpd[7486]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7487]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7491]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7489]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7490]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7493]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7488]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7492]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7497]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7494]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7495]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7496]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7498]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7499]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7501]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  8 22:31:30 combo ftpd[7500]: connection from 64.34.92.187 () at Sat Oct  8 22:31:30 2005 
+Oct  9 04:07:57 combo su(pam_unix)[8624]: session opened for user cyrus by (uid=0)
+Oct  9 04:08:03 combo su(pam_unix)[8624]: session closed for user cyrus
+Oct  9 04:08:16 combo cups: cupsd shutdown succeeded
+Oct  9 04:08:43 combo cups: cupsd startup succeeded
