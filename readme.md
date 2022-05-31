@@ -44,5 +44,5 @@ List of files:
  - Linux-logs: This folder contains the raw syslog files.
  - sample.csv: Data was extracted in this file for review by professor and get approval to proceed with other tools and steps.
  - log_etl.py: Python code that parses the syslog data and classifies it based on the time, service, user and attack activity reported.
- - data.csv - classified csv file that contains the classifications and the raw data.
- - WEKA-data.csv - classified file that contains only the classifications to be used for Weka processing without the raw data field.
+ - data.csv: classified csv file that contains the classifications and the raw data.
+ - WEKA-data.csv: classified file that contains only the classifications to be used for Weka processing without the raw data field.
