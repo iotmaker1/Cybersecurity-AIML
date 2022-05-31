@@ -11,9 +11,9 @@ This project is associated with prediction of cybersecurtiy attacks on linux bas
 
 This data model is then used for further calssifying the os operations and events for building a basline. To this baseline attack data patterns are added to train the model of what an attack would look like. An iterative learning run would then be able to classify and predict type of attack based on the pattern seen. In subsequent   phases additonal attack data with different services like SSH, FTP, RPC-NFS etc. are run against the data to analyze the predictability.
 
-As the machine learning picks up these patterns it can predict a possibility of an attack progression based on services running on a linux system. It can then provide a risk assessment report with possible recommendations.
+As the machine learning picks up these patterns it can predict a possibility of an attack progression based on services running on a linux system. It can then provide a risk assessment report with possible recommendations. The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
 
-In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project.
+In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project with guidance from faculty.
 
 Team members:
 - Professor Dr Omar Darwish
@@ -22,7 +22,6 @@ Team members:
 - Mia Jones
 - Yogesh Chavarkar
  
-The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
 
 
 <strong> Details </strong>
