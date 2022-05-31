@@ -1,0 +1,216 @@
+Oct 16 04:12:17 combo syslogd 1.4.1: restart.
+Oct 16 04:12:26 combo logrotate: ALERT exited abnormally with [1]
+Oct 16 04:38:16 combo su(pam_unix)[19376]: session opened for user news by (uid=0)
+Oct 16 04:38:17 combo su(pam_unix)[19376]: session closed for user news
+Oct 16 06:20:09 combo sshd(pam_unix)[19771]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19770]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19774]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19773]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19772]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19776]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 06:20:09 combo sshd(pam_unix)[19775]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.206.193.55  user=root
+Oct 16 12:31:50 combo ftpd[21278]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21277]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21282]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21287]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21288]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21286]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21289]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21280]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21290]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21283]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21284]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21281]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21279]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:50 combo ftpd[21285]: connection from 211.107.232.1 () at Sun Oct 16 12:31:50 2005 
+Oct 16 12:31:51 combo ftpd[21292]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21293]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21291]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21294]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21295]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21297]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21299]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21298]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:31:51 combo ftpd[21296]: connection from 211.107.232.1 () at Sun Oct 16 12:31:51 2005 
+Oct 16 12:54:56 combo sshd(pam_unix)[21389]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:56 combo sshd(pam_unix)[21391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:56 combo sshd(pam_unix)[21393]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:58 combo sshd(pam_unix)[21395]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:58 combo sshd(pam_unix)[21398]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:58 combo sshd(pam_unix)[21397]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:54:59 combo sshd(pam_unix)[21399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:55:00 combo sshd(pam_unix)[21403]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:55:01 combo sshd(pam_unix)[21405]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 12:55:05 combo sshd(pam_unix)[21408]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.132.75.90  user=root
+Oct 16 21:24:07 combo sshd(pam_unix)[23390]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23390]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23404]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23404]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23403]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23403]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23394]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23394]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23392]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23392]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23399]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23391]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23389]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23391]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23399]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:07 combo sshd(pam_unix)[23388]: check pass; user unknown
+Oct 16 21:24:07 combo sshd(pam_unix)[23393]: check pass; user unknown
+Oct 16 21:24:08 combo sshd(pam_unix)[23389]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:09 combo sshd(pam_unix)[23388]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 16 21:24:09 combo sshd(pam_unix)[23393]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85-95-176-2.saransk.ru 
+Oct 17 04:06:15 combo su(pam_unix)[25443]: session opened for user cyrus by (uid=0)
+Oct 17 04:06:16 combo su(pam_unix)[25443]: session closed for user cyrus
+Oct 17 04:06:17 combo logrotate: ALERT exited abnormally with [1]
+Oct 17 04:22:36 combo su(pam_unix)[30143]: session opened for user news by (uid=0)
+Oct 17 04:22:37 combo su(pam_unix)[30143]: session closed for user news
+Oct 17 08:03:52 combo ftpd[30837]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30824]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30836]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30838]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30826]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30825]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30829]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30835]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30823]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30827]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30832]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30833]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30830]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30834]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30831]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30828]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30840]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30839]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30841]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30843]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:52 combo ftpd[30842]: connection from 61.33.224.81 () at Mon Oct 17 08:03:52 2005 
+Oct 17 08:03:53 combo ftpd[30844]: connection from 61.33.224.81 () at Mon Oct 17 08:03:53 2005 
+Oct 18 04:04:10 combo su(pam_unix)[1265]: session opened for user cyrus by (uid=0)
+Oct 18 04:04:11 combo su(pam_unix)[1265]: session closed for user cyrus
+Oct 18 04:04:11 combo logrotate: ALERT exited abnormally with [1]
+Oct 18 04:09:32 combo su(pam_unix)[1641]: session opened for user news by (uid=0)
+Oct 18 04:09:33 combo su(pam_unix)[1641]: session closed for user news
+Oct 19 04:04:00 combo su(pam_unix)[4029]: session opened for user cyrus by (uid=0)
+Oct 19 04:04:01 combo su(pam_unix)[4029]: session closed for user cyrus
+Oct 19 04:04:01 combo logrotate: ALERT exited abnormally with [1]
+Oct 19 04:09:41 combo su(pam_unix)[5255]: session opened for user news by (uid=0)
+Oct 19 04:09:42 combo su(pam_unix)[5255]: session closed for user news
+Oct 20 04:03:59 combo su(pam_unix)[7601]: session opened for user cyrus by (uid=0)
+Oct 20 04:03:59 combo su(pam_unix)[7601]: session closed for user cyrus
+Oct 20 04:04:00 combo logrotate: ALERT exited abnormally with [1]
+Oct 20 04:09:15 combo su(pam_unix)[7972]: session opened for user news by (uid=0)
+Oct 20 04:09:16 combo su(pam_unix)[7972]: session closed for user news
+Oct 20 05:19:32 combo telnetd[8116]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Oct 21 00:55:47 combo ftpd[9762]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:47 2005 
+Oct 21 00:55:47 combo ftpd[9763]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:47 2005 
+Oct 21 00:55:47 combo ftpd[9761]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:47 2005 
+Oct 21 00:55:49 combo ftpd[9764]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9766]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9765]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9767]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9768]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9769]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9770]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9774]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9772]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9771]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9775]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9776]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9773]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9777]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:49 combo ftpd[9778]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:49 2005 
+Oct 21 00:55:50 combo ftpd[9779]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:50 2005 
+Oct 21 00:55:50 combo ftpd[9781]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:50 2005 
+Oct 21 00:55:50 combo ftpd[9780]: connection from 84.158.123.165 (p549E7BA5.dip.t-dialin.net) at Fri Oct 21 00:55:50 2005 
+Oct 21 01:36:22 combo sshd(pam_unix)[9850]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:22 combo sshd(pam_unix)[9843]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:23 combo sshd(pam_unix)[9849]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:24 combo sshd(pam_unix)[9857]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:24 combo sshd(pam_unix)[9846]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:25 combo sshd(pam_unix)[9851]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:27 combo sshd(pam_unix)[9860]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:27 combo sshd(pam_unix)[9855]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 01:36:29 combo sshd(pam_unix)[9842]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.171.26.201  user=test
+Oct 21 03:56:36 combo sshd(pam_unix)[10084]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10085]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10088]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10090]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10089]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:36 combo sshd(pam_unix)[10092]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:44 combo sshd(pam_unix)[10076]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:44 combo sshd(pam_unix)[10078]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:44 combo sshd(pam_unix)[10079]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 03:56:44 combo sshd(pam_unix)[10080]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=solutions93.cobalt.com  user=root
+Oct 21 04:03:43 combo su(pam_unix)[10454]: session opened for user cyrus by (uid=0)
+Oct 21 04:03:44 combo su(pam_unix)[10454]: session closed for user cyrus
+Oct 21 04:03:45 combo logrotate: ALERT exited abnormally with [1]
+Oct 21 04:09:29 combo su(pam_unix)[11680]: session opened for user news by (uid=0)
+Oct 21 04:09:30 combo su(pam_unix)[11680]: session closed for user news
+Oct 21 09:52:17 combo ftpd[12234]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12224]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12235]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12225]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12228]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12237]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12236]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12238]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12220]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12239]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12223]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12222]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12233]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12230]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12221]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12231]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12227]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12226]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12229]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:17 combo ftpd[12232]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:17 2005 
+Oct 21 09:52:26 combo ftpd[12240]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:26 2005 
+Oct 21 09:52:26 combo ftpd[12242]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:26 2005 
+Oct 21 09:52:26 combo ftpd[12241]: connection from 87.133.253.158 (p5785FD9E.dip0.t-ipconnect.de) at Fri Oct 21 09:52:26 2005 
+Oct 22 02:30:08 combo telnetd[13901]: ttloop:  peer died: Invalid or incomplete multibyte or wide character
+Oct 22 04:03:27 combo su(pam_unix)[14379]: session opened for user cyrus by (uid=0)
+Oct 22 04:03:28 combo su(pam_unix)[14379]: session closed for user cyrus
+Oct 22 04:03:29 combo logrotate: ALERT exited abnormally with [1]
+Oct 22 04:08:51 combo su(pam_unix)[14750]: session opened for user news by (uid=0)
+Oct 22 04:08:52 combo su(pam_unix)[14750]: session closed for user news
+Oct 22 06:32:11 combo ftpd[14994]: connection from 81.181.213.88 (88-213-181-81-cable.canals.ro) at Sat Oct 22 06:32:11 2005 
+Oct 22 12:05:07 combo sshd(pam_unix)[15463]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:07 combo sshd(pam_unix)[15461]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:07 combo sshd(pam_unix)[15462]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:07 combo sshd(pam_unix)[15460]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:07 combo sshd(pam_unix)[15466]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:07 combo sshd(pam_unix)[15468]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:08 combo sshd(pam_unix)[15471]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:08 combo sshd(pam_unix)[15473]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:08 combo sshd(pam_unix)[15477]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 22 12:05:08 combo sshd(pam_unix)[15475]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.220.149.227  user=test
+Oct 23 01:21:20 combo sshd(pam_unix)[16620]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16620]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:20 combo sshd(pam_unix)[16619]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16619]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:20 combo sshd(pam_unix)[16622]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16622]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:20 combo sshd(pam_unix)[16631]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16631]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:20 combo sshd(pam_unix)[16624]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16624]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:20 combo sshd(pam_unix)[16621]: check pass; user unknown
+Oct 23 01:21:20 combo sshd(pam_unix)[16621]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:21 combo sshd(pam_unix)[16630]: check pass; user unknown
+Oct 23 01:21:21 combo sshd(pam_unix)[16630]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:21 combo sshd(pam_unix)[16632]: check pass; user unknown
+Oct 23 01:21:21 combo sshd(pam_unix)[16632]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:22 combo sshd(pam_unix)[16629]: check pass; user unknown
+Oct 23 01:21:22 combo sshd(pam_unix)[16629]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 01:21:22 combo sshd(pam_unix)[16637]: check pass; user unknown
+Oct 23 01:21:22 combo sshd(pam_unix)[16637]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=vit94-2-82-66-253-141.fbx.proxad.net 
+Oct 23 04:03:31 combo su(pam_unix)[17202]: session opened for user cyrus by (uid=0)
+Oct 23 04:03:31 combo su(pam_unix)[17202]: session closed for user cyrus
+Oct 23 04:03:34 combo cups: cupsd shutdown succeeded
+Oct 23 04:03:40 combo cups: cupsd startup succeeded

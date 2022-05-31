@@ -1,0 +1,122 @@
+Aug 14 04:03:53 combo syslogd 1.4.1: restart.
+Aug 14 04:03:53 combo logrotate: ALERT exited abnormally with [1]
+Aug 14 04:10:18 combo su(pam_unix)[7381]: session opened for user news by (uid=0)
+Aug 14 04:10:19 combo su(pam_unix)[7381]: session closed for user news
+Aug 15 04:02:56 combo su(pam_unix)[12849]: session opened for user cyrus by (uid=0)
+Aug 15 04:02:57 combo su(pam_unix)[12849]: session closed for user cyrus
+Aug 15 04:02:57 combo logrotate: ALERT exited abnormally with [1]
+Aug 15 04:08:45 combo su(pam_unix)[13220]: session opened for user news by (uid=0)
+Aug 15 04:08:45 combo su(pam_unix)[13220]: session closed for user news
+Aug 16 03:13:53 combo sshd(pam_unix)[15180]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:13:53 combo sshd(pam_unix)[15176]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:13:53 combo sshd(pam_unix)[15178]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:13:58 combo sshd(pam_unix)[15182]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:13:58 combo sshd(pam_unix)[15183]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:13:59 combo sshd(pam_unix)[15186]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:00 combo sshd(pam_unix)[15188]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:01 combo sshd(pam_unix)[15190]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:07 combo sshd(pam_unix)[15192]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:08 combo sshd(pam_unix)[15194]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:08 combo sshd(pam_unix)[15195]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:09 combo sshd(pam_unix)[15198]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:10 combo sshd(pam_unix)[15200]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:14:11 combo sshd(pam_unix)[15202]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.125.251.17  user=root
+Aug 16 03:59:57 combo ftpd[15266]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15273]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15271]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15269]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15263]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15272]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:57 combo ftpd[15265]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:57 2005 
+Aug 16 03:59:58 combo ftpd[15262]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15276]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15264]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15278]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15274]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15275]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15277]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15260]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15268]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15267]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15261]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15259]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15270]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15258]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15257]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 03:59:58 combo ftpd[15256]: connection from 68.143.90.52 (iis.willowtec.com) at Tue Aug 16 03:59:58 2005 
+Aug 16 04:02:59 combo su(pam_unix)[15618]: session opened for user cyrus by (uid=0)
+Aug 16 04:02:59 combo su(pam_unix)[15618]: session closed for user cyrus
+Aug 16 04:03:00 combo logrotate: ALERT exited abnormally with [1]
+Aug 16 04:09:11 combo su(pam_unix)[16843]: session opened for user news by (uid=0)
+Aug 16 04:09:12 combo su(pam_unix)[16843]: session closed for user news
+Aug 17 03:39:34 combo ftpd[18905]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18908]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18909]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18904]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18906]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18913]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18896]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18910]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18907]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18895]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18912]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18911]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18900]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18894]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18899]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18897]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18903]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18901]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18892]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18891]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18902]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18898]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 03:39:34 combo ftpd[18893]: connection from 211.107.232.1 () at Wed Aug 17 03:39:34 2005 
+Aug 17 04:03:15 combo su(pam_unix)[19297]: session opened for user cyrus by (uid=0)
+Aug 17 04:03:16 combo su(pam_unix)[19297]: session closed for user cyrus
+Aug 17 04:03:17 combo logrotate: ALERT exited abnormally with [1]
+Aug 17 04:09:04 combo su(pam_unix)[19667]: session opened for user news by (uid=0)
+Aug 17 04:09:05 combo su(pam_unix)[19667]: session closed for user news
+Aug 18 04:03:18 combo su(pam_unix)[22081]: session opened for user cyrus by (uid=0)
+Aug 18 04:03:19 combo su(pam_unix)[22081]: session closed for user cyrus
+Aug 18 04:03:20 combo logrotate: ALERT exited abnormally with [1]
+Aug 18 04:09:30 combo su(pam_unix)[23306]: session opened for user news by (uid=0)
+Aug 18 04:09:31 combo su(pam_unix)[23306]: session closed for user news
+Aug 18 16:36:02 combo sshd(pam_unix)[24380]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=222.76.149.199  user=root
+Aug 19 00:14:18 combo ftpd[25060]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25055]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25052]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25054]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25053]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25059]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25056]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25058]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:18 combo ftpd[25057]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:18 2005 
+Aug 19 00:14:20 combo ftpd[25061]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:20 2005 
+Aug 19 00:14:24 combo ftpd[25062]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:24 2005 
+Aug 19 00:14:24 combo ftpd[25063]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:24 2005 
+Aug 19 00:14:24 combo ftpd[25064]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:24 2005 
+Aug 19 00:14:24 combo ftpd[25065]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:24 2005 
+Aug 19 00:14:25 combo ftpd[25066]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:25 2005 
+Aug 19 00:14:25 combo ftpd[25067]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:25 2005 
+Aug 19 00:14:25 combo ftpd[25068]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:25 2005 
+Aug 19 00:14:27 combo ftpd[25070]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 00:14:27 combo ftpd[25069]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 00:14:27 combo ftpd[25073]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 00:14:27 combo ftpd[25071]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 00:14:27 combo ftpd[25072]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 00:14:27 combo ftpd[25074]: connection from 212.122.206.51 (klik18.klik.bydgoszcz.pl) at Fri Aug 19 00:14:27 2005 
+Aug 19 04:03:11 combo su(pam_unix)[25732]: session opened for user cyrus by (uid=0)
+Aug 19 04:03:12 combo su(pam_unix)[25732]: session closed for user cyrus
+Aug 19 04:03:12 combo logrotate: ALERT exited abnormally with [1]
+Aug 19 04:08:51 combo su(pam_unix)[26102]: session opened for user news by (uid=0)
+Aug 19 04:08:52 combo su(pam_unix)[26102]: session closed for user news
+Aug 20 04:03:26 combo su(pam_unix)[32622]: session opened for user cyrus by (uid=0)
+Aug 20 04:03:26 combo su(pam_unix)[32622]: session closed for user cyrus
+Aug 20 04:03:27 combo logrotate: ALERT exited abnormally with [1]
+Aug 20 04:09:34 combo su(pam_unix)[1382]: session opened for user news by (uid=0)
+Aug 20 04:09:35 combo su(pam_unix)[1382]: session closed for user news
+Aug 21 04:03:35 combo su(pam_unix)[3812]: session opened for user cyrus by (uid=0)
+Aug 21 04:03:35 combo su(pam_unix)[3812]: session closed for user cyrus
+Aug 21 04:03:37 combo cups: cupsd shutdown succeeded
+Aug 21 04:03:42 combo cups: cupsd startup succeeded
