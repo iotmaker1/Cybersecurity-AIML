@@ -24,7 +24,7 @@ Team members:
  
 
 
-<strong> Details </strong>
+#### Details
 
 Four distinct attack patterns were used from the sample files from the [logpai loghub repository](https://github.com/logpai/loghub) repository.
 
