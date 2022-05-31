@@ -13,7 +13,16 @@ This data model is then used for further calssifying the os operations and event
 
 As the machine learning picks up these patterns it can predict a possibility of an attack progression based on services running on a linux system. It can then provide a risk assessment report with possible recommendations.
 
-In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project. Team - Aaron Liske, William Smith III, Mia Jones, Yogesh Chavarkar under guidance or professor Dr Omar Darwish. The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
+In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project.
+
+Team members:
+- Professor Dr Omar Darwish
+- Aaron Liske (Lead)
+- William Smith III
+- Mia Jones
+- Yogesh Chavarkar
+ 
+The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
 
 
 <strong> Details </strong>
