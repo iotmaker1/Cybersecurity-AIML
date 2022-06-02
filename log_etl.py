@@ -37,9 +37,9 @@ prev_host = ''
 #define function for user types.  Can be expanded for others, if system needs.
 def user_type(euid):
 	if euid == "0":
-		return "root"
+		return "0"
 	else:
-		return "other"
+		return "-1"
 
 #define function to parse the message, with the service as the main logic branch
 #outputs the formatted string including the determined user level as well as the suspicion
@@ -52,8 +52,8 @@ def message_parse(svc, msg, timestamp):
 	global prev_timestamp
 
 	#set variable defaults
-	suspicious = 'false'
-	user_level = 'no_euid'
+	suspicious = 'NON-ATTACK'
+	user_level = '-1'
 
 	#because sshd and samba have such similar messages, processing is identical
 	if svc == 'sshd' or svc == 'samba':
@@ -61,11 +61,11 @@ def message_parse(svc, msg, timestamp):
 		if(m):
 			user_level = user_type(m.group(3))
 			if user_level == 'root':
-				suspicious = 'true'
+				suspicious = 'ATTACK'
 			else:
-				suspicious = 'false'
+				suspicious = 'NON-ATTACK'
 		else:
-			suspicious = 'false'
+			suspicious = 'NON-ATTACK'
 
 	#process log for ftp(d).  mark as suspicious if line matches previous entry's remote host or is within 2 seconds per timestamp
 	if svc == 'ftpd' or svc == 'ftp':
@@ -81,31 +81,31 @@ def message_parse(svc, msg, timestamp):
 				curr_seconds = int(timestamp.split(":")[2])
 				delta_time = curr_seconds - prev_seconds
 				if (curr_seconds - prev_seconds < 2 or curr_host == prev_host) and (msg.strip() != "FTP session closed"):
-					suspicious = 'true'
+					suspicious = 'ATTACK'
 				else:
-					suspicious = 'false'
+					suspicious = 'NON-ATTACK'
 			#set host and timestamp variables for comparison later
 			prev_host = curr_host
 			prev_timestamp = timestamp
 		else:
-			suspicious = 'false'
+			suspicious = 'NON-ATTACK'
 
 	#all rpc calls with gethostbyname are suspicious for buffer overflow attacks
 	if svc == "rpc":
 		m = re.search('^(.*?)(gethostbyname)(.*?)$', msg)
 		if(m):
 			if m.group(2) == 'gethostbyname':
-				suspicious = 'true'
+				suspicious = 'ATTACK'
 			else:
-				suspicious = 'false'
+				suspicious = 'NON-ATTACK'
 		else:
-			suspicious = 'false'
+			suspicious = 'NON-ATTACK'
 	#set previous service variable for future comparison
 	prev_service = svc
 	return user_level + '\t|' + suspicious
 
 #open csv file for writing
-csvfile = open('data.csv','w', newline='')
+csvfile = open('data_new.csv','w', newline='')
 
 writer = csv.writer(csvfile)
 
@@ -163,7 +163,7 @@ for filename in os.listdir(directory):
 				suspicion_split = suspicion.split('\t|')
 
 				#create array for CSV writer
-				data = [m.group(0),day_type,time_of_day,m.group(4),suspicion_split[0],suspicion_split[1]]
+				data = [day_type,time_of_day,m.group(4),suspicion_split[1]]
 				#write data to CSV file
 				writer.writerow(data)
 				#increase line count
