@@ -21,6 +21,12 @@ Considering future prospects for this tool, it can effectively work in two diffe
 
 As the machine learning picks up these patterns it can predict a possibility of an attack progression based on services running on a linux system. It can then provide a risk assessment report with possible recommendations. The data used for this experimental project was obtained from [logpai loghub repository](https://github.com/logpai/loghub).
 
+Also the real value of expanding future work would come from adding behaviors for services like squid proxy logs and BinDNS logs. It will help classify outbound connections from compromised systems as a continuation of the attack progression to command & control KC6 level. That will provide the system owner the last opportunity to foil the attacker reaching final KC7 level of impact achieving the objectives.
+
+(Karki, 2021) ![Lockheed Martin KC Levels](https://miro.medium.com/max/1400/1*l9ccExnOaaC5PBWW_myW9w.png)
+
+The Team:
+
 In the example project that was carried out as part of IA645 Machine Learning for Cybersecurity at Eastern Michigan University, the team of four students worked on this project with guidance from faculty.
 
 Team members:
@@ -54,3 +60,7 @@ List of files:
  - log_etl.py: Python code that parses the syslog data and classifies it based on the time, service, user and attack activity reported.
  - data.csv: classified csv file that contains the classifications and the raw data.
  - WEKA-Dataset.csv: classified file that contains only the classifications to be used for Weka processing without the raw data field.
+
+
+#### References 
+Karki, S. (2021, September 12). Cyber kill chain -  offensive and defensive approach. Medium. Retrieved from https://medium.com/cryptogennepal/cyber-kill-chain-offensive-and-defensive-approach-22033e37a340 
