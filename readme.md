@@ -63,4 +63,10 @@ List of files:
 
 
 #### References 
-Karki, S. (2021, September 12). Cyber kill chain -  offensive and defensive approach. Medium. Retrieved from https://medium.com/cryptogennepal/cyber-kill-chain-offensive-and-defensive-approach-22033e37a340 
+Karki, S. (2021, September 12). Cyber kill chain -  offensive and defensive approach. Medium. Retrieved from https://medium.com/cryptogennepal/cyber-kill-chain-offensive-and-defensive-approach-22033e37a340
+
+Lockheed Martin. (2022, April 11). Cyber kill chain®. Lockheed Martin. Retrieved from https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html 
+
+The MITRE Corporation. (2015). Getting started: Mitre ATT&amp;CK®. Getting Started | MITRE ATT&amp;CK®. Retrieved from https://attack.mitre.org/resources/getting-started/ 
+
+Sodja, C., Carroll, J., Turcotte, M., &amp; Neil, J. (2021, April 1). Automating threat actor tracking: Understanding attacker behavior for intelligence and contextual alerting. Microsoft Security Blog. Retrieved from https://www.microsoft.com/security/blog/2021/04/01/automating-threat-actor-tracking-understanding-attacker-behavior-for-intelligence-and-contextual-alerting/ 005
