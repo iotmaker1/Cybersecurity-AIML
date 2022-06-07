@@ -37,9 +37,9 @@ prev_host = ''
 #define function for user types.  Can be expanded for others, if system needs.
 def user_type(euid):
 	if euid == "0":
-		return "0"
+		return "root"
 	else:
-		return "-1"
+		return "other"
 
 #define function to parse the message, with the service as the main logic branch
 #outputs the formatted string including the determined user level as well as the suspicion
@@ -53,7 +53,7 @@ def message_parse(svc, msg, timestamp):
 
 	#set variable defaults
 	suspicious = 'NON-ATTACK'
-	user_level = '-1'
+	user_level = 'no_euid'
 
 	#because sshd and samba have such similar messages, processing is identical
 	if svc == 'sshd' or svc == 'samba':

@@ -1,0 +1,10 @@
+Tools Used:
+
+Python:
+	Used to write the process to extract, transform, and load (ETL) the data from the log files into the final CSV file for the Machine Learning Algorithms.  The code was written by Aaron Liske and with the dataset, creates a CSV of approximately 71,000 tuples.
+
+Weka:
+	Weka was used as the Machine Learning platform as it has many of the Machine Learning algorithms pre-installed with it, with the option to add more as an add-on.
+
+Datasets:
+	The datasets used were found via various public repositories of syslog files.  These came from log-sharing.dreamhosters.com, from dates ranging from 2004-2006.  The systems were from Linux Redhat 7.1
