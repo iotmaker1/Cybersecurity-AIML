@@ -15,6 +15,8 @@ This data model is then used for further calssifying the os operations and event
 
 The final paper that walks through the entire process of [syslog logfile analysis for attack detection](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/Syslog-logfile-analysis-attack-detection-Final-Paper-IEEE-Format.pdf).
 
+![workflow](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/workflow.jpg)
+
 Future Prospects:
 
 Considering future prospects for this tool, it can effectively work in two different cybersecurity functions - 
