@@ -17,6 +17,10 @@ The final paper that walks through the entire process of [syslog logfile analysi
 
 ![workflow](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/workflow.jpg)
 
+The logical algorithm coded in python that processes the logfile with labelling for Weka ML.
+
+![codelogic](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/code-logic.jpg)
+
 Future Prospects:
 
 Considering future prospects for this tool, it can effectively work in two different cybersecurity functions - 
