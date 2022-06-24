@@ -13,7 +13,7 @@ This project is associated with prediction of cybersecurtiy attacks on linux bas
 
 This data model is then used for further calssifying the os operations and events for building a basline. To this baseline attack data patterns are added to train the model of what an attack would look like. An iterative learning run would then be able to classify and predict type of attack based on the pattern seen. In subsequent   phases additonal attack data with different services like SSH, FTP, RPC-NFS etc. are run against the data to analyze the predictability.
 
-The final paper that walks through the entire process of [syslog logfile analysis for attack detection](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/Syslog-logfile-analysis-attack-detection-Final-Paper-IEEE-Format.pdf).
+The final paper that walks through the entire process of [syslog logfile analysis for attack detection paper](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/Syslog-logfile-analysis-attack-detection-Final-Paper-IEEE-Format.pdf) and [presentation](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/syslog-attack-detection-PPT.pdf).
 
 ![workflow](https://github.com/iotmaker1/Cybersecurity-AIML/blob/main/workflow.jpg)
 
